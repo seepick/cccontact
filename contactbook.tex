@@ -1,0 +1,41 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{hyperref}
+
+\newlength\mystoreparindent
+\newenvironment{leftindent}[0]{
+\setlength{\mystoreparindent}{\the\parindent}
+\setlength{\parindent}{0pt}
+}{
+\setlength{\parindent}{\mystoreparindent}
+}
+
+
+\title{Contact Improvisation Booklet}
+\date{\today}
+\author{Christoph Pickl}
+
+\begin{document}
+
+\pagenumbering{gobble}
+\maketitle
+
+\begin{center}
+	\includegraphics[width=8cm]{images/cover.jpg}
+	\vspace{0.5cm}
+	
+	\textit{Moving together.}\\
+	\textit{Guided by the moment.}\\
+	\textit{In eternal spirals.}
+\end{center}
+\newpage
+
+\tableofcontents
+\newpage
+
+\pagenumbering{arabic}
+
+\include{chapters/principles}
+
+\end{document}
