@@ -5,3 +5,4 @@ contactbook.pdf
 *.synctex.gz
 *.out
 *.toc
+.idea/

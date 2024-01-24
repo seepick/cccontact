@@ -1,17 +1,29 @@
 % TODO
 %
-% * finish chapter "history"; incorporate: https://en.wikipedia.org/wiki/Contact_improvisation
-%
+% ad principles: grounding, pouring weight, rolling point of contact (pathway continuation)
+% -) prepare lots of good questions; ask tom for an interview; record with phone, and transscript it later, and extract info to put in CI book
+% -)  where does CI position itself? dance, movement awareness thingy, therapy, sport,... versus salsa/tango, martial arts, acrobatics?
+% -) saying/hearing yes/no during the dance
+% -) where are its limits/boundaries? what is it not?
+% -) safety. what are the big "no-gos". head above ass.
+% -) sensuality? no... nice, but not here. rolling over frontside?! depersonalize partner, seeing body as physical object, let go of the stories; fall in love with dance not the other dancer.
+% -) netiquette; say your name, ask for name; don't talk too much; proper clothing (no jeans, buttons, ... we were pyjamas); rolling over front-side.
+% get some info from official CI journal: https://contactquarterly.com/
+
+% CHAPTERS:
+% -)  why do it?
+% -)  zoo; famous animals (little animal, panda, octopus, elephant, coala, snake; banana)
+% -)  guidelines/mottos: tension (masks sensation), breath, eyes
+% -)  techniques: lifts, spirals
+% -)  vocabulary: umpf, botsen, wee
 %%%%%%
 
 
 \documentclass[a4paper]{article}
-
 \usepackage{graphicx}
 \usepackage{url}
 \usepackage{hyperref}
 \usepackage{wrapfig} % wrap text around image
-
 \newlength\mystoreparindent
 \newenvironment{leftindent}[0]{
 \setlength{\mystoreparindent}{\the\parindent}
@@ -20,51 +32,31 @@
 \setlength{\parindent}{\mystoreparindent}
 }
 \setcounter{tocdepth}{1}
-
 \setcounter{secnumdepth}{0} %% no numbering
-
 \title{Contact Book}
 \date{\today}
 \author{Christoph Pickl}
 
 \begin{document}
-
 \pagenumbering{gobble}
 \maketitle
-
 \begin{center}
 	\includegraphics[width=8cm]{images/cover.jpg}
 	\vspace{0.5cm}
-	
+	\\
 	\textit{Moving in unity.}\\
 	\textit{Guided by the moment.}\\
 	\textit{In eternal spirals.}
 \end{center}
 \newpage
-
 \tableofcontents
 \newpage
-
 \pagenumbering{arabic}
 
-% TODO: delete "about" chapter, that no other resource AND do use lots of resources (websites, YT videos)
-
-%! prepare lots of good questions; ask tom for an interview; record with phone, and transscript it later, and extract info to put in CI book
-% where does CI position itself? dance, movement awareness thingy, therapy, sport,... versus salsa/tango, martial arts, acrobatics?
-% saying/hearing yes/no during the dance
-% where are its limits/boundaries? what is it not?
-% safety. what are the big "no-gos". head above ass.
-% sensuality? no... nice, but not here. rolling over frontside?! depersonalize partner, seeing body as physical object, let go of the stories; fall in love with dance not the other dancer.
-% netiquette; say your name, ask for name; don't talk too much; proper clothing (no jeans, buttons, ... we were pyjamas)
-
 \include{chapters/about}
+\include{chapters/what}
 \include{chapters/history}
-% why do it?
 \include{chapters/principles}
-% zoo; famous animals (little animal, panda, octopus)
-% guidelines/mottos: tension (masks sensation), breath, eyes
-% techniques: lifts, spirals
-% vocabulary: umpf, botsen, wee
+\include{chapters/why}
 
 \end{document}
-
