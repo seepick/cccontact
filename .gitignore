@@ -1,8 +1,16 @@
 .DS_Store
+.idea/
+contactbook.pdf
+
+# latex
 *.aux
 *.log
-contactbook.pdf
 *.synctex.gz
 *.out
 *.toc
-.idea/
+
+# glossary
+*.glg
+*.glo
+*.gls
+*.ist
