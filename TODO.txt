@@ -1,27 +1,34 @@
-% TO DO list
-%
-%- yield-push, pull-reach, ... qualities (muscle tonus; water, honey, concrete)
-%- medical knowledgebase: properioception, kinestestic (next to anatomy and physics)
-%- etiquette: to talk or not to talk
-%- gorilla (good/bad; head up/down)
-%- sensitivity yes, sensuality no (nice, but not here); no caressing of skin
-%- "quality dimensions of movement": kinesphere size (small/body, medium/ellbow-knee, large/wrist-ankle, extra-large/finger-toe, universe/projectingoutwards), tension (water, honey, concrete), speed (slow/fast), body parts (homo-/contra-lateral, upper/lower, left/right side); roundedness (stachato edgy vs air flowy; a la 5 rhythms); moving up (standing) down (ground) and in between (all fours)
-%- chapter about basic physics (vector, gravity, inertia)
-%- add book listing in back (and videos)
+TO*DO list
+==========
 
-% BIG:
-% - current RESOURCE working on: https://contactquarterly.com/contact-improvisation/about/index.php
-% - prepare interview questions
-% - go through list of resources in README.md file (including videos); put in tex (and duplicate list here, to "check it off"
-% - add a bit about https://en.wikipedia.org/wiki/Kinesiology
-%
-% SMALL:
-% - dancing on the ground (lying, little animal) vs standing
-% - grounding VS levitian (base VS lifting)
-% - add more techniques stuff
+* start each chapter with a mini abstract AND especially how it relates (why important) for CI
+
+=> current RESOURCE working on: https://contactquarterly.com/contact-improvisation/about/index.php
+
+* prepare interview questions
+
+* gorilla (good/bad; head up/down)
+* movement qualities: grounding VS levitian (base VS lifting); yield-push, pull-reach,... (muscle tonus; water, honey, concrete); kinesphere size (small/body, medium/ellbow-knee, large/wrist-ankle, extra-large/finger-toe, universe/projectingoutwards), tension (water, honey, concrete), speed (slow/fast), body parts (homo-/contra-lateral, upper/lower, left/right side); roundedness (stachato edgy vs air flowy; a la 5 rhythms); moving up (standing) down (ground) and in between (all fours)
+
+* add book listing in back (and videos)
+* add a bit about https://en.wikipedia.org/wiki/Kinesiology
+
+* dancing on the ground (lying, little animal) vs standing
+
+... add more techniques stuff
 
 
-
+%* https://contactimprov.com
+%* https://contactimprovblog.com
+%* https://bodyresearch.org/contact-improvisation
+%* https://www.dancemagazine.com/rules-of-contact-improv-class/
+%* https://joerghassmann.com/other-themes/what-is-contact-improvisation/
+%* https://dancespirit.com/contact-improv/
+%* [Fall After Newton](https://www.youtube.com/watch?v=k768K_OTePM), documenting the early beginnings, from 1987, originally 22mins long
+%* [@contactquarterly](https://www.youtube.com/@contactquarterly), a YouTube channel containing some videos of the early beginnings (e.g. Chute, Magnesium, Peripheral Vision, Soft Pallet)
+%* [Life Lessons Learned Through Contact Improvisation, TEDx](https://www.youtube.com/watch?v=hlIRjfto7o0), interesting to see the connection of CI to general life
+%* [Gogolfest 2016 Contact Improvisation](https://www.youtube.com/watch?v=n1D9RU2GbBo), just inspiring to watch
+%* [A couple of basic exercises](https://www.youtube.com/watch?v=H8JiB2Nv5Qo), something to practice by yourself as a beginner
 
 Here are some oldies -
 These are the first videos - of the invention of Contact
@@ -48,3 +55,8 @@ This is the website - material for the spine - his work and research after he pa
 https://www.materialforthespine.com/
 
 A good book about the history of the form, origins and stories is "Sharing the dance"- by Cynthia Novack
+
+* harvest from this page (laban especially): https://annemarleen.gitbook.io/immersive-design/embodiment/gestural
+
+
+=> ask in tom's whatsapp group for volunteers to review this booklet

@@ -3,7 +3,6 @@
 \usepackage{url}
 \usepackage{hyperref}
 \usepackage{wrapfig} % wrap text around image
-\usepackage{glossaries}
 \newlength\mystoreparindent
 \newenvironment{leftindent}[0]{
 \setlength{\mystoreparindent}{\the\parindent}
@@ -17,12 +16,7 @@
 \date{\today}
 \author{Christoph Pickl}
 
-\makeglossaries
-
-\newglossaryentry{kinesphere}{name=kinesphere,description={the personal space around us within reaching possibilities of our limbs without changing position}}
-\newglossaryentry{negativespace}{name=negative space,description={the empty space which is not occupied by matter which can be "danced in"}}
-\newglossaryentry{smalldance}{name=small dance,description={the tiny, unconscious movements keeping you stand upright}}
-
+\input{glossary}
 
 \begin{document}
 \pagenumbering{gobble}
@@ -41,8 +35,8 @@
 \pagenumbering{arabic}
 
 \include{chapters/about}
-\include{chapters/what}
-\include{chapters/why}
+\include{chapters/definition}
+\include{chapters/motivation}
 \include{chapters/history}
 \include{chapters/principles}
 \include{chapters/mottos}
@@ -50,6 +44,9 @@
 \include{chapters/safety}
 \include{chapters/jargon}
 \include{chapters/anatomy}
+\include{chapters/physics}
+\include{chapters/movement}
+\include{chapters/resources}
 
 \printglossaries
 
