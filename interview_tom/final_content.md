@@ -47,7 +47,7 @@ interview with tom goldhand about contact improvisation; 1st april 2024, amsterd
 * place to see humanity, or more: animality; in a good kind of way, monkey kind of way, which is fun
 * workout -as a side effect (just more fun)
   * "some people lift weights, we lift bodies"; some people run to lose weight, we go dancing (not the main reason/intention though)
-* maybe even: personal/social growth? philosphical practice? mental/spiritual practice
+* maybe even: personal/social growth? philosophical practice? mental/spiritual practice
   * like in ballet: zone of awareness, meditative state (doing pliee for 15min+)
   * but in CI: small dance (=listening unconscious body reaction to maintain balance)
 * less choreography: "why are we doing that" gets lost (reason); follow other person's idea
@@ -66,7 +66,7 @@ interview with tom goldhand about contact improvisation; 1st april 2024, amsterd
   * also called "partnering": use of CI in choreographies
   * dance improvisation existed before (but didn't have the contact aspect as CI has)
     * although sometimes CI is called "contact dance"
-  * introduced in new avantgarde dance schools in the US
+  * introduced in new avant-garde dance schools in the US
 * martial arts: founding people were many Aikidokas
 * acrobatics: creator Steve Paxton himself was a gymnast
 * visceral art form, art-sport
@@ -74,10 +74,10 @@ interview with tom goldhand about contact improvisation; 1st april 2024, amsterd
   * there is a confusion about "touch based partner dance" and the art-form of CI
   * these people might also bring in a slight different (sensual-sexual) energy which is not welcome in CI
 
-## how can it be compared to more conventional dance styles, like: contemporary dance, dance improvisation, or even zuuk, tango, salsa, or lindy hop?
+## how can it be compared to more conventional dance styles, like: contemporary dance, dance improvisation, or even zouk, tango, salsa, or lindy hop?
 
 * most of those are partner dancing in a more social way; CI comes from the art world on the other hand
-* they are very much gender roled (men lead, women follow; except lindy hop); CI dances everyone with everyone, no clear role
+* they are very much gender-roled (men lead, women follow; except lindy hop); CI dances everyone with everyone, no clear role
 * they are much more "stylish" (dress to impress); at CI we like to wear our comfy pyjamas ;)
 * without the shared point of contact, it's only dance improvisation
 * CI is an exploration; "breaking the system" as it is improvised (no choreography)
@@ -90,7 +90,7 @@ interview with tom goldhand about contact improvisation; 1st april 2024, amsterd
 * they are mostly vertically (standing; no floorwork); at CI we roll over each other on the floor
   * they are walking with very nice movements
   * CI is a three-dimensional spherical space, were every bodypart can be a foot (pushed against the ground)
-* lindy hop is using very strong acrobatics, which zuuk also does a little
+* lindy hop is using very strong acrobatics, which zouk also does a little
   * e.g. taking/lifting people on your body (core/center)
 
 ## if you need to pick a dance style, which one would come closest to CI?
@@ -143,7 +143,7 @@ N/A
     * handshake, or touch on the shoulder, is common in our society - leaning is not
     * learn to do that, but: without stopping to breath and without tensing up (big struggle for beginners) 
   * not using "rolling point of contact", but "jumping point of contact"
-    * we don't aim for "intimate bodyparts" (buttocks, breasts, genitals), yet we roll over them "coincidently" without staying there
+    * we don't aim for "intimate body-parts" (buttocks, breasts, genitals), yet we roll over them "coincidentally" without staying there
     * e.g. my head would be at those parts, i will still try to avoid that (if possible; even if people know each other very well)
     * we try to desexualize the human body (not the partner, but the body); in our hyper-sexualized society can be difficult
     * the touch without a sexual intention will feel comfortable for both, even if intimate parts are being rolled over (more important the "how" than the "what")
@@ -230,7 +230,7 @@ N/A
 * cuddles (cuddle puddles) will happen, and are being tolerated, but are not intentional!
   * the group will "notice" that behavior if that's your intention; again: people might not want to dance with you anymore
   * none prohibit it, some jams tolerate it, few invite it, but mostly it just doesn't happen
-  * often there is a partner bodywork at the end (a typical thing dancers would do); more a technical/medical/sports massage than a personal/emotional/intimate touch session
+  * often there is a partner bodywork at the end (a typical thing dancers would do); a more technical/medical/sports massage than a personal/emotional/intimate touch session
 
 
 # 4. SOCIAL
@@ -243,7 +243,7 @@ N/A
   * trend in our society: companies saying "come join the family"
 * community here: group of people sharing the same passion for this practice
   * getting curious about the other person, from a very basic physical connection
-  * their life, experiences, ideas... afterwards often also sharing food; from their, friendship can happen
+  * their life, experiences, ideas... afterward often also sharing food; from their, friendship can happen
   * sometimes also just a great dance partner, but personally nothing in common with (not wanting to be friends)
   * less care for "only dance partners", less than for example neighbour
   * this is a bit off in the contact "community"
@@ -252,7 +252,7 @@ N/A
 * there are silos, according to the attitude of the teacher/jam, people will converge into specific places (norms will differ based on that)
 * collaboration over competition: CI people/teachers believe in what they do, the goodness that it gives to the world
   * they want to expand the pool to reach more people
-  * maybe more competition if only source of income and rely on it (scarce modality); livelihoood/hobby/passion
+  * maybe more competition if only source of income and rely on it (scarce modality); livelihood/hobby/passion
   * some teachers will invite guest teachers (if not here), or send people to another teacher (different city, or teacher being more technical)
   * not much "fighting" among CI practitioners happening, but also collaboration are not so often happening (it's a very individual practice)
 * there are festivals, where (abroad) teachers are being invited
@@ -285,15 +285,15 @@ N/A
   * especially people who don't have people close to them (relatives, loved ones, partner; during COVID), feel that human need for touch
     * BUT: this is not the aim of CI, it's a very nice additional side effect
     * people who only come for that side effect, won't stay long in CI; there are other places where one gets touch for that purpose
-* using CI to "heal the world" seems a bit... utopian (naive?), well fitted for younger people, with lots of enthusiasm being eager
+* using CI to "heal the world" seems a bit... utopian (naive?), well-fitted for younger people, with lots of enthusiasm being eager
   * that eagerness comes because CI can change one's life
-  * "if everyone would do CI there would be no wars anymore and it would be the end of capitalism" - the young
+  * "if everyone would do CI there would be no wars anymore, and it would be the end of capitalism" - the young
   * "CI is a very, very rich, beneficial and amazing dance form, and it might not change the world, but it did change me" - the old
   * the more we spread it, the better ;)
 
 ## aren't there lots of horny people rubbing their body's on each other?
 
-* in classes it happens very very very rarely (teacher taking care of a safe space for participants)
+* in classes, it happens very very very rarely (teacher taking care of a safe space for participants)
   * teachers will stop any form of sexual intended / predatory behavior right away, declaring it as a clear  "no-go"
   * that's also why people should go first to a class to learn the norms and values, instead dropping in a jam right away
 * at jams without a supervisor no one knows (maybe relatively more often?)
@@ -307,12 +307,12 @@ N/A
 ## what makes a good CI practitioner good? (quality, attitude, skills)
 
 * right intention for dance
-* regarding attitude/mindset: curiosity (the antidot to being judgmental)
+* regarding attitude/mindset: curiosity (the antidote to being judgmental)
 * a very important tool: listening to small sensations in the body (change of movement/weight)
-  * increased awareness of incoming information (inside and outside of the body; peripheral nervous system; "skinesphere")
+  * increased awareness of incoming information (inside and outside the body; peripheral nervous system; "skinesphere")
   * being able to detect what's going on
-  * being "well informed" leads to becoming a much better dancer
-* respect what your body is able to do (in regards to level, age, constitution)
+  * being "well-informed" leads to becoming a much better dancer
+* respect what your body is able to do (in regard to level, age, constitution)
 * for many, dancing with totally beginners and total advanced is most enjoyable: reminder/showing different aspects of the dance
   * both are usually very happy to dance with each other
 * intermediate are usually not happy to dance with beginners (only own level or higher)
@@ -321,7 +321,7 @@ N/A
   * often go faster than their level of attention; very often go faster than their beginner-partner's level of attention
 * an advanced practitioner is really happy exploring the smallest thing, being able to keep a beginner's mind open
   * they know what they know, and they know what they don't know
-* more general (for any form): kind (smiling, gentle, soft), humbl≈e (not showing off how many years is doing this-or-that, not arrogantly teaching beginners), patient (let the beginners do their own mistakes/gain own experience)
+* more general (for any form): kind (smiling, gentle, soft), humble (not showing off how many years is doing this-or-that, not arrogantly teaching beginners), patient (let the beginners do their own mistakes/gain own experience)
   * everybody teaches, there is no certificate; if you have a lot of knowledge, you will share that by your dancing
 * years itself are not necessarily a guarantee for expertise/mastery!
   * some people get stuck at a certain level even after many years
@@ -358,7 +358,7 @@ N/A
 
 * "we try not to fall in love with our partner, we fall in love with the dance"
   * because it's not a personal dance, it's a physicality; the experience is because of the practice, not because of your partner(s) necessarily; don't attach that to a specific person
-  * even when had an amazing dance with someone, once the dance is over, i'm gonna say "thank you, and bye bye"
+  * even when had an amazing dance with someone, once the dance is over, i'm going to say "thank you, and bye bye"
     * possible to talk to that person later on, but not lingering and dance the entire class/jam with that person
 * "dance at the edge of your level of attention, and don't cross the level of your partner's attention"
   * try to expand what you are able (movement/attention; speed, techniques, pathways)
@@ -406,10 +406,10 @@ N/A
 * contact quarterly website ("official CI channel") 
 * material for the spine, by steve paxton (after he did some CI), a new line of research
 * underscore, by nancy stalks smith
-* videos (good practice to watch them every now and then):
+* videos (good practice to watch them once in a while):
   * magnesium, fall after newton, ... (everything between 1972 and 1980)
 * books (about 10 good ones which are specifically for CI):
-  * sharing the dancy, by cynthia novack
+  * sharing the dance, by cynthia novack
   * dancing deeper still, by martin keogh
 
 ## something to tell people who never tried but are curious about it now?
@@ -421,4 +421,5 @@ N/A
 * don't give up if your very first experience seems bad; maybe you want to try another class/teacher
 * CI is not only physical; ask yourself: why and what am i doing; this is very beneficial and inspiring
 
-Not thank you - Not welcome ;)
+
+not thank you - not welcome ;)
