@@ -2,7 +2,7 @@ interview with tom goldhand about contact improvisation; 1st april 2024, amsterd
 
 # 1. GENERAL
 
-## what is CI in one sentence?
+## 1.1 what is CI in one sentence?
 
 * terminology/definitions are time-, space- and person-based (as well as CI is improvised, thus...)
   * asking the same question a day/week later, it will already change
@@ -13,7 +13,7 @@ interview with tom goldhand about contact improvisation; 1st april 2024, amsterd
 * or 2: a three body problem, two dancers, shaped/moved by momentum/gravity/force, dealing with the third body (=ground/earth).
 * CI is an improvised art-form; art-sport
 
-## what is the "essence" of CI (in multiple sentences)?
+## 1.2 what is the "essence" of CI (in multiple sentences)?
 
 * improvised partner dance (usually two people/bodies), exploration with the ground
   * dance moving by itself, according to our aims/wishes
@@ -22,7 +22,7 @@ interview with tom goldhand about contact improvisation; 1st april 2024, amsterd
 * with changing point of contact; using "*rolling point of contact*", no disengaging/re-engaging, at least not at the beginning
   * correcting each other to find balance
 
-## what are its principles?
+## 1.3 what are its principles?
 
 * rolling point of contact
 * sharing weight
@@ -33,7 +33,7 @@ interview with tom goldhand about contact improvisation; 1st april 2024, amsterd
   * not needed in order to use it/play with it
   * engineers smile hearing terminology from the world of leverage/friction/mutual point of contact/center of mass
 
-## its goals? why would someone start to do CI? what are its benefits?
+## 1.4 its goals? why would someone start to do CI? what are its benefits?
 
 * because it's fun
   * to avoid having to go to the gym and have much more fun in the studio 
@@ -58,7 +58,7 @@ interview with tom goldhand about contact improvisation; 1st april 2024, amsterd
 * connection with others (although in the beginning not so much; create a piece, not community)
 * starting point of exploration (only less than half stay with CI, others continue)
 
-## where does CI position itself? in terms of: dance, martial arts, acrobatics, sport, movement awareness practice, (dance/movement) therapy, ...?
+## 1.5 where does CI position itself? in terms of: dance, martial arts, acrobatics, sport, movement awareness practice, (dance/movement) therapy, ...?
 
 * more of a dance (based on the person's background you ask)
   * yet not a thing of the professional dance world
@@ -74,7 +74,7 @@ interview with tom goldhand about contact improvisation; 1st april 2024, amsterd
   * there is a confusion about "touch based partner dance" and the art-form of CI
   * these people might also bring in a slight different (sensual-sexual) energy which is not welcome in CI
 
-## how can it be compared to more conventional dance styles, like: contemporary dance, dance improvisation, or even zouk, tango, salsa, or lindy hop?
+## 1.6 how can it be compared to more conventional dance styles, like: contemporary dance, dance improvisation, or even zouk, tango, salsa, or lindy hop?
 
 * most of those are partner dancing in a more social way; CI comes from the art world on the other hand
 * they are very much gender-roled (men lead, women follow; except lindy hop); CI dances everyone with everyone, no clear role
@@ -93,13 +93,9 @@ interview with tom goldhand about contact improvisation; 1st april 2024, amsterd
 * lindy hop is using very strong acrobatics, which zouk also does a little
   * e.g. taking/lifting people on your body (core/center)
 
-## if you need to pick a dance style, which one would come closest to CI?
-
-N/A
-
 # 2. HISTORY
 
-## when/where/how/by whom was CI created?
+## 2.1 when/where/how/by whom was CI created?
 
 * when: 1972
 * where: ... somewhere US
@@ -110,7 +106,7 @@ N/A
 * steve stopped doing CI about 7 years after; gave it to the people
   * nancy held it after; she continued with another partner contact quarterly magazine (a vehicle to share ideas; the theme/practice of CI)
 
-## how was it back then different from today's CI?
+## 2.2 how was it back then different from today's CI?
 
 * it was VERY different; sometimes we call it "old school contact"; some people still do it
 * very high velocity and risk; looks amazing and scary
@@ -124,7 +120,7 @@ N/A
   * differences based on different teachers (lineages) but also culturally
   * different countries have different "body orientation"
 
-## why was it never trademarked?
+## 2.3 why was it never trademarked?
 
 * decided no cause/trademark/certification; using the contact quarterly instead as a vehicle (no hierarchy)
   * as always: a certificate doesn't mean you are good, just that you pass a certification
@@ -132,10 +128,9 @@ N/A
   * try not to teach what you don't know 
 * ... check the books!
 
-
 # 3. BEGINNER
 
-## what are the typical struggles for beginners? what are common mistakes made?
+## 3.1 what are the typical struggles for beginners? what are common mistakes made?
 
 * on the physical aspect (body):
   * not using (giving) weight (not leaning) to the partner
@@ -157,7 +152,7 @@ N/A
     * not only physical level (close proximity in touch), but also sensual/sexual level (but it's NOT in its core)
     * switch of the mind necessary to change that
 
-## is it safe?
+## 3.2 is it safe?
 
 * short answer: no ;) it can be "safe enough" though (what we aim for)
   * less safe than jiujitsu/judo/MMA, more safe than poetry/running; it's a high intense form of dancing
@@ -165,7 +160,7 @@ N/A
 * safety just can't be reached in the outside world, meeting each other; neither injured (physically) nor psychologically in pain
 * be aware of the existing risks, yet expand the boundaries of what's possible
 
-## for whom is CI, for whom isn't it a good idea to join? (physical requirements? touch-averse people?)
+## 3.3 for whom is CI, for whom isn't it a good idea to join? (physical requirements? touch-averse people?)
 
 * in general: everybody is welcome (not necessarily every behavior though) 
 * not about age (even 70+ is possible), not about body ability
@@ -188,7 +183,7 @@ N/A
 * people who take too many risks (the "dangerous ones"); throwing themselves on unknown partners
   * they won't be denied access to classes/jams, but dancers will most likely keep their distance as it won't feel safe
 
-## is any equipment necessary / beneficial? what kind of clothes (not) to wear?
+## 3.4 is any equipment necessary / beneficial? what kind of clothes (not) to wear?
 
 * normal dancing movable sports clothes
 * no zippers, no button-shirt, no jewelry (big earrings) ... as they can get trapped on other person's bodies/clothes or hurt someone
@@ -198,7 +193,7 @@ N/A
 * custom is to have long trousers and sleeves (for sliding, enough friction and sweating)
   * some wear even 2 shits in hot summer (long underneath, short on top) :-/
 
-## how can i differentiate between a good and a bad teacher? (safe / unsafe community / jam)
+## 3.5 how can i differentiate between a good and a bad teacher? (safe / unsafe community / jam)
 
 * three realms to consider:
   * 1. physical aspect:
@@ -213,7 +208,7 @@ N/A
     * absence of competition: wanting the student to be as good / better as themselves
     * pure intention to teach; sharing knowledge (also two-way though)
 
-## what are the unwritten, implicit socially accepted behaviors in CI? (talking? eye gazing?)
+## 3.6 what are the unwritten, implicit socially accepted behaviors in CI? (talking? eye gazing?)
 
 * making the implicit rules explicit
 * start slowly
@@ -232,10 +227,9 @@ N/A
   * none prohibit it, some jams tolerate it, few invite it, but mostly it just doesn't happen
   * often there is a partner bodywork at the end (a typical thing dancers would do); a more technical/medical/sports massage than a personal/emotional/intimate touch session
 
-
 # 4. SOCIAL
 
-## what does the community look like? how is it organized?
+## 4.1 what does the community look like? how is it organized?
 
 * the term "community" is about people living in the same place
   * sharing more knowledge about each other rather than a practice
@@ -260,7 +254,7 @@ N/A
 * usually when invited, then not by other teachers, but by schools/institutions/organizers
   * there is a win-win-win in having different student-teacher relationships in one's own workshop
 
-## can you give a description of a "stereotypical" CI person?
+## 4.2 can you give a description of a "stereotypical" CI person?
 
 * wearing dance clothes; nothing casual/street clothes but also not too fancy
 * age is a big range, yet for technical part it's usually around 25-45
@@ -276,7 +270,7 @@ N/A
     * independent of sex/gender/age/body; no leading/following based on sex/gender, just play
 * CI don't convince others of they greatness of CI, although everyone is invited and welcome to join; it's fun
 
-## how does such a very intimate touch based movement form in today's (distant) society?
+## 4.3 how does such a very intimate touch based movement form in today's (distant) society?
 
 * in very strictly gender-roled societies (e.g. not same-sex touch permitted), CI would have big problems to become popular
 * western world is seen as non-touch societies, there are bubbles where it is allowed/encouraged
@@ -291,7 +285,7 @@ N/A
   * "CI is a very, very rich, beneficial and amazing dance form, and it might not change the world, but it did change me" - the old
   * the more we spread it, the better ;)
 
-## aren't there lots of horny people rubbing their body's on each other?
+## 4.4 aren't there lots of horny people rubbing their body's on each other?
 
 * in classes, it happens very very very rarely (teacher taking care of a safe space for participants)
   * teachers will stop any form of sexual intended / predatory behavior right away, declaring it as a clear  "no-go"
@@ -301,10 +295,9 @@ N/A
   * minimizing the probability of such non-welcome behavior
 * comparing to ecstatic or tantric dance with CI: in CI are waaaay less "horny people" showing up ;)
 
-
 # 5. TECHNICAL
 
-## what makes a good CI practitioner good? (quality, attitude, skills)
+## 5.1 what makes a good CI practitioner good? (quality, attitude, skills)
 
 * right intention for dance
 * regarding attitude/mindset: curiosity (the antidote to being judgmental)
@@ -329,7 +322,7 @@ N/A
     * keeping a beginner's mind: keep on doing the very same thing (lifts and spirals), yet stay with curiosity and explore deeper (the small things/changes, where to focus now/put attention/intention)
   * even lots of experience itself doesn't mean your level of technical practise is going forward
 
-## what are the core movement principles/patterns?
+## 5.2 what are the core movement principles/patterns?
 
 * the techniques are based on the principles; the principles are core
   * short: 1) sharing weight 2) rolling point of contact
@@ -345,7 +338,7 @@ N/A
 * later, once principles are embodied, they show up ("surprise you when they happen and change your pathways")
   * also in high velocity, risk engaged dance; with a super, super high level of alertness/attention; jumping on each other yet landing safely back on the ground
 
-## are there "clearly defined, labeled techniques" or is CI a more principle based system?
+## 5.3 are there "clearly defined, labeled techniques" or is CI a more principle based system?
 
 * yes, there are also techniques, but the principles are at the core of CI
 * the difference between grammar (=principles; universal, abstract) and vocabulary (=techniques; specific, concrete)
@@ -354,7 +347,7 @@ N/A
 * often necessary to stay a few hours with a new teacher to embody their body language, from which the vocabulary comes
 * vocabulary like lifts is a rather regional expression of the application of the commonly shared principles
 
-## what are some of your favorite mottos?
+## 5.4 what are some of your favorite mottos?
 
 * "we try not to fall in love with our partner, we fall in love with the dance"
   * because it's not a personal dance, it's a physicality; the experience is because of the practice, not because of your partner(s) necessarily; don't attach that to a specific person
@@ -365,7 +358,7 @@ N/A
   * listen to what your partner is able as well
 * also: tension masks sensation (by steve paxton)
 
-## most used classes' animals (octopus, koala, panda, elephant) and sounds (oomph, bots, wee, mooshimooshi)
+## 5.5 most used classes' animals (octopus, koala, panda, elephant) and sounds (oomph, bots, wee, mooshimooshi)
 
 * there are no universal names for techniques/qualities, but different teachers try to invent, share, and give credits to their inventions.
   * an oral tradition has established of passing information
@@ -390,7 +383,7 @@ N/A
 
 # 6. OUTRO
 
-## in which direction will CI develop in the next 10 years?
+## 6.1 in which direction will CI develop in the next 10 years?
 
 * hopefully it will keep a very strong trunk
   * people keep on researching the practice, still knowing where it comes from, its roots
@@ -401,7 +394,7 @@ N/A
   * also good, those branches/merges, that people are aware that that's not CI the way it is actually practiced
   * what's needed: good teachers/jams/spaces where the ideas/principles are held from CI; knowing the physical aspect but also the history
 
-## any good books (websites, movies) about CI you recommend watching?
+## 6.2 any good books (websites, movies) about CI you recommend watching?
 
 * contact quarterly website ("official CI channel") 
 * material for the spine, by steve paxton (after he did some CI), a new line of research
@@ -412,7 +405,7 @@ N/A
   * sharing the dance, by cynthia novack
   * dancing deeper still, by martin keogh
 
-## something to tell people who never tried but are curious about it now?
+## 6.3 something to tell people who never tried but are curious about it now?
 
 * check some youtube videos
   * don't be intimidated from what you are seeing (usually only high level people publish videos; that's not what you are going to encounter at first)
