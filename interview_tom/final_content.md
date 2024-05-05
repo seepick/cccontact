@@ -413,6 +413,3 @@ interview with tom goldhand about contact improvisation; 1st april 2024, amsterd
 * go first to some classes (not immediately to jams; only after 10-20 classes, to have the basic principles embodied)
 * don't give up if your very first experience seems bad; maybe you want to try another class/teacher
 * CI is not only physical; ask yourself: why and what am i doing; this is very beneficial and inspiring
-
-
-not thank you - not welcome ;)
