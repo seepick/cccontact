@@ -1,8 +1,11 @@
 TO*DO list
 ==========
 
-! start each chapter with a mini abstract AND especially how it relates (why important) for CI
+! start each chapter with a mini abstract (what is it about) AND especially how it relates (why important/useful) for CI
 
+* not jump on partner while being lifted, risky injury impact. pour weight. or use momentum.
+* safety, dont use hands to manipulate, later yes. also pedipulate.
+* anatomy, 33 bones spine (?), 27 foot (?), hand,... in total bones/muscles
 - homo/contra-lateral
 - not only sharing weight, but also sharing balance (not "off balanced" but "shared balance")
 - mostly through core connection (center of gravity)
@@ -23,3 +26,4 @@ TO*DO list
 * https://www.dancemagazine.com/rules-of-contact-improv-class/
 * https://joerghassmann.com/other-themes/what-is-contact-improvisation/
 * https://dancespirit.com/contact-improv/
+* https://en.wikipedia.org/wiki/Kinesics
