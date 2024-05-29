@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Building contatbook.pdf ..."
+echo "Building contactbook.pdf ..."
 pdflatex contactbook
 makeglossaries contactbook
 pdflatex contactbook
