@@ -1,23 +1,17 @@
 TO*DO list
-==========
+====================================================================================================
 
-! start each chapter with a mini abstract (what is it about) AND especially how it relates (why important/useful) for CI
+* proof read myself ("rebalance" the chapters, its contents)
+* add pics to each chapter
+=> ask in tom's whatsapp group for volunteers to review this booklet
 
-* not jump on partner while being lifted, risky injury impact. pour weight. or use momentum.
-* safety, dont use hands to manipulate, later yes. also pedipulate.
-* anatomy, 33 bones spine (?), 27 foot (?), hand,... in total bones/muscles
-- homo/contra-lateral
-- not only sharing weight, but also sharing balance (not "off balanced" but "shared balance")
-- mostly through core connection (center of gravity)
-* => current RESOURCE working on: https://contactquarterly.com/contact-improvisation/about/index.php
-* movement qualities: grounding VS levitian (base VS lifting); yield-push, pull-reach,... (muscle tonus; water, honey, concrete); kinesphere size (small/body, medium/ellbow-knee, large/wrist-ankle, extra-large/finger-toe, universe/projectingoutwards), tension (water, honey, concrete), speed (slow/fast), body parts (homo-/contra-lateral, upper/lower, left/right side); roundedness (stachato edgy vs air flowy; a la 5 rhythms); moving up (standing) down (ground) and in between (all fours)
-* add a bit about https://en.wikipedia.org/wiki/Kinesiology
-* dancing on the ground (lying, little animal) vs standing
-* harvest from this page (laban especially): https://annemarleen.gitbook.io/immersive-design/embodiment/gestural
-* => ask in tom's whatsapp group for volunteers to review this booklet
+
+LATER
+------------------------------------------------------------------------
 * ... add more techniques stuff
-* kinesthetic resonanze (mirroring movements). yawning? "to feel the other person's energy"?
-
+* => current RESOURCE working on: https://contactquarterly.com/contact-improvisation/about/index.php
+- nancy stark's "underscore" warmup exercise: https://en.wikipedia.org/wiki/Contact_improvisation
+* harvest from this page (laban especially): https://annemarleen.gitbook.io/immersive-design/embodiment/gestural
 * Fall After Newton video https://www.youtube.com/watch?v=k768K_OTePM
 * contactquarterly channel: https://www.youtube.com/@contactquarterly
 * https://contactimprov.com
@@ -27,3 +21,4 @@ TO*DO list
 * https://joerghassmann.com/other-themes/what-is-contact-improvisation/
 * https://dancespirit.com/contact-improv/
 * https://en.wikipedia.org/wiki/Kinesics
+* add a bit about https://en.wikipedia.org/wiki/Kinesiology
