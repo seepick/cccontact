@@ -1,10 +1,11 @@
-\documentclass[a4paper]{article}
+\documentclass[a4paper,12pt]{book}
 \usepackage{graphicx}
 \usepackage{url}
 \usepackage{hyperref}
 \usepackage{mdwlist} % list without bullet symbol \{itemize*}
 \usepackage{wrapfig} % wrap text around image
 \usepackage{csquotes} % for displayquote env
+
 \newlength\mystoreparindent
 \newenvironment{leftindent}[0]{
 \setlength{\mystoreparindent}{\the\parindent}
@@ -12,8 +13,9 @@
 }{
 \setlength{\parindent}{\mystoreparindent}
 }
-\setcounter{tocdepth}{1}
-\setcounter{secnumdepth}{0} %% no numbering
+\setcounter{tocdepth}{0} % only chapters in ToC
+\setcounter{secnumdepth}{0} % no numbering of sections
+
 \title{Contact Book}
 \date{\today}
 \author{Christoph Pickl}
@@ -21,38 +23,41 @@
 \input{glossary}
 
 \begin{document}
-\pagenumbering{gobble}
+
+%\pagenumbering{gobble}
+%\pagenumbering{arabic}
+
 \maketitle
+
+\tableofcontents
+\vfill
 \begin{center}
-	\includegraphics[width=8cm]{images/cover}
-	\vspace{0.5cm}
-	\\
 	\textit{Moving in unity.}\\
 	\textit{Guided by the moment.}\\
 	\textit{In eternal spirals.}
 \end{center}
+\vfill
+\noindent
+\small{Get in contact: \url{https://christophpickl.github.io/contactbook/}}
 \newpage
-\tableofcontents
-Contact via: https://github.com/christophpickl/contactbook
-\newpage
-\pagenumbering{arabic}
 
-\include{chapters/about}
-\include{chapters/definition}
-\include{chapters/beginning}
-\include{chapters/motivation}
-\include{chapters/history}
-\include{chapters/principles}
-\include{chapters/mottos}
-\include{chapters/techniques}
-\include{chapters/safety}
-\include{chapters/jargon}
-\include{chapters/anatomy}
-\include{chapters/physics}
-\include{chapters/movement}
-\include{chapters/resources}
 
-\listoffigures
+\input{chapters/about}
+\input{chapters/definition}
+\input{chapters/beginning}
+\input{chapters/motivation}
+\input{chapters/history}
+\input{chapters/principles}
+\input{chapters/mottos}
+\input{chapters/techniques}
+\input{chapters/safety}
+\input{chapters/jargon}
+\input{chapters/anatomy}
+\input{chapters/physics}
+\input{chapters/movement}
+\input{chapters/resources}
+
+%\listoffigures
 %\listoftables
 \printglossaries
 

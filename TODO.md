@@ -15,6 +15,7 @@ TO*DO list
 
 LATER
 ------------------------------------------------------------------------
+* latex templates: https://www.overleaf.com/latex/templates/tagged/book
 * center of gravity/grounding (heavy, low, abdomen; being the base/underdancer) VS center of levitian/floating (light, high, chest; being the flyer/overdancer)
 * ask that blonde lady, which interviewed me once; whether i can get her notes please (from all she interviewed).
 * it's good to be in your head! don't be mistaken; 1) but don't ruminate, but contemplate. don't think in circles, unproductive thoughts, but think in lines, constructive. 2) don't get distracted, thinking about groceries, but keep your thoughts focused on what's going on right now 3) even the inner critic is welcome, complaining that you are not doing the very first moment perfectly, although you have never done it before, and it is rather unrealistic that anyone on earth would be able to do so, but you of course have the expectation on yourself that you do! listen to that voice, acknowledge it, let it motivate to do it better, use it as a friend, rather try to silence it as an enemy; he means good, but is sometimes a bit over to top, calm him down, by compassion/kindness/empathy. (to resist is to persist)
