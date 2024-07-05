@@ -8,6 +8,8 @@ contactbook.pdf
 *.synctex.gz
 *.out
 *.toc
+*.lof
+*.lot
 
 # glossary
 *.glg
