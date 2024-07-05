@@ -2,7 +2,9 @@
 \usepackage{graphicx}
 \usepackage{url}
 \usepackage{hyperref}
+\usepackage{mdwlist} % list without bullet symbol \{itemize*}
 \usepackage{wrapfig} % wrap text around image
+\usepackage{csquotes} % for displayquote env
 \newlength\mystoreparindent
 \newenvironment{leftindent}[0]{
 \setlength{\mystoreparindent}{\the\parindent}
@@ -31,6 +33,7 @@
 \end{center}
 \newpage
 \tableofcontents
+Contact via: https://github.com/christophpickl/contactbook
 \newpage
 \pagenumbering{arabic}
 
@@ -49,6 +52,8 @@
 \include{chapters/movement}
 \include{chapters/resources}
 
+\listoffigures
+%\listoftables
 \printglossaries
 
 \end{document}
