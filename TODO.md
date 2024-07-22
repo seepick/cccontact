@@ -1,8 +1,6 @@
 TO*DO list
 ====================================================================================================
 
-* links always as full urls (no hiding, as print clicks unavail)
-
 * run through auto-correct language tool
 * proofreaders: ursula (bin/make_word.sh) julienne (send PDF? latex github sources)
 * start to sketch first few drawings
