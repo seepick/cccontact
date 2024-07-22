@@ -1,10 +1,28 @@
-\documentclass[a4paper,12pt]{book}
+\documentclass[11pt]{book}
+\usepackage{geometry}
+\geometry{
+  paper=a4paper,
+  margin=54pt,
+  includeheadfoot
+}
 \usepackage{graphicx}
 \usepackage{url}
 \usepackage{hyperref}
 \usepackage{mdwlist} % list without bullet symbol \{itemize*}
 \usepackage{wrapfig} % wrap text around image
 \usepackage{csquotes} % for displayquote env
+
+\usepackage{caption}
+\captionsetup[figure]{font=footnotesize,labelfont=footnotesize}
+
+\newenvironment{exercise}[0]{
+    \vspace{1em}
+    \noindent\textbf{Exercise}
+    \vspace{0.4em}
+    \hrule
+    \vspace{0.4em}
+    }{
+}
 
 \newlength\mystoreparindent
 \newenvironment{leftindent}[0]{
@@ -38,7 +56,7 @@
 \end{center}
 \vfill
 \noindent
-\small{Get in contact: \url{https://christophpickl.github.io/contactbook/}}
+\footnotesize{Get in contact via \url{https://christophpickl.github.io/contactbook/} or \href{mailto:christoph.pickl@gmail.com}{christoph.pickl@gmail.com}}
 \newpage
 
 

@@ -1,20 +1,64 @@
 TO*DO list
 ====================================================================================================
 
-* proof read myself: RESOURCES
+* links always as full urls (no hiding, as print clicks unavail)
+
+* run through auto-correct language tool
+* proofreaders: ursula (bin/make_word.sh) julienne (send PDF? latex github sources)
 * start to sketch first few drawings
+* give it a proper (sub?!) title, e.g.:
+  * "Small Steps into the Wonderful World of Contact Improvisation"
+  * "Small Dance into the Art Form of Contact Improvisation"
+* 2ndary:
+  * all "fancy words" as glossary items?
+  * add some more content to chapter "World"
+
+PROOF READ
+------------------------------------------------------------------------
+syntax:
+* spelling/grammar mistakes (capitalization).
+* proper usage of interpunctation; paranthesis "()", comma ",", dash "-", semicolon ";"
+
+semantic:
+* difficult domain-specific words in glossary?
+* same word repeating?
+* too simply adjectives (e.g. nice, good)? -> replace by more diverse words
+* too long sentences can be shortened
+
+complex:
+* can additional images/figures help better understanding?
+* does order of chapter make sense?
+* does content belong to other chapter?
 
 
-@tom: can you give me all your CI videos? :)
-* watch: https://www.youtube.com/watch?v=9FeSDsmIeHA
-* run through auto correct tool
+CONTENT
+------------------------------------------------------------------------
+* term "score" (exercise? theme?); underscore
+* dresscode: no jewelery (rings, ear rings, bracelets) as dangerous, no belt, not too much naked skin (sweaty, slippery, and for some people too sexy/uncomfortable; some decency, CI is a non-sensual practice)
+* no "parking" or socializing on the dancefloor, move to the sides
+* guide how to dis/engage a dance: mirror the person, bit eye contact, finger/hand touch, back2back; disengage namaste/hug, use water drinking as excuse, say thank you and roll away
+* attitudes: playful, curiosity, care, responsibility
+* what makes CI different: all levels (not just standing), it's 3D; and also 1/2/many people dancing with each other; it's goal is not to be aesthetical pleasing (as with most dance forms)
+* basic body skills: relaxation (not stiff), listening (following), gentle/softness, flexibility/mobility, in joints, balance, general body awareness.
+* under/overdancer is superset of base/flyer
+* movement quality: expand/fold alias flexion/extension (going down fold, going up expand).
+* saying stop/no, consent, safety during dance. tom's workshop. orange/red boundary. not endura. last ressort: say out loud.
+* uncommon spices: manipulation of the head, counter-balancing
+* the advantage of going slow. more input/details, safer. if can do slow, also fast (but not other way round).
+* nesting a la raul. fill the space. cuddle in; esp. floorwork.
+* also raul: giving air, finding bridges. basically give away weight while partner aligns.
+* move eyes, moves head, moves spine, moves everything else.
+* breathe!!!! relax, be moveable again. also to co-regulate partner/others in the room.
+* dresscode: kneepads. which ones, what to watch out for. also for pants, not to loose because getting stuck.
+* ad jam, bring multiple shirts, because sweaty. in general: hygiene (body, mouth, clothes, nails), as close up.
 
-* write script to generate word doc.
-* proofreaders: ursula! julienne?
-* read https://compendium.copim.ac.uk/practices/60
 
 LATER
 ------------------------------------------------------------------------
+@tom: can you give me all your CI videos? :)
+* add way more exercises to be done by the reader
+* watch: https://www.youtube.com/watch?v=9FeSDsmIeHA
+* read https://compendium.copim.ac.uk/practices/60
 * latex templates: https://www.overleaf.com/latex/templates/tagged/book
 * center of gravity/grounding (heavy, low, abdomen; being the base/underdancer) VS center of levitian/floating (light, high, chest; being the flyer/overdancer)
 * ask that blonde lady, which interviewed me once; whether i can get her notes please (from all she interviewed).
@@ -33,6 +77,7 @@ LATER
 MUCH LATER
 ------------------------------------------------------------------------
 
+* https://en.wikipedia.org/wiki/Contact_improvisation
 * add exercises: for each chapter maybe a bit (with descriptions + drawings); especially for techniques (na net na na)
 * ... add more techniques stuff
 * => current RESOURCE working on: https://contactquarterly.com/contact-improvisation/about/index.php
@@ -40,10 +85,10 @@ MUCH LATER
 * harvest from this page (laban especially): https://annemarleen.gitbook.io/immersive-design/embodiment/gestural
 * Fall After Newton video https://www.youtube.com/watch?v=k768K_OTePM
 * contactquarterly channel: https://www.youtube.com/@contactquarterly
-* https://contactimprov.com
-* https://contactimprovblog.com
+* https://contactimprov.com (e.g. booklist, etc...)
+* https://contactimprovblog.com; e.g. boundaries/consent: https://contactimprovblog.com/myths-to-break-down-moving-toward-ethical-communication-and-ethical-sexuality-in-ci/
 * https://bodyresearch.org/contact-improvisation
-* https://www.dancemagazine.com/rules-of-contact-improv-class/
+* https://www.dancemagazine.com/tag/contact-improvisation/; e.g. https://www.dancemagazine.com/rules-of-contact-improv-class/
 * https://joerghassmann.com/other-themes/what-is-contact-improvisation/
 * https://dancespirit.com/contact-improv/
 * https://en.wikipedia.org/wiki/Kinesics
