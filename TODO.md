@@ -32,6 +32,7 @@ complex:
 
 CONTENT
 ------------------------------------------------------------------------
+* add more exercises
 * term "score" (exercise? theme?); underscore
 * dresscode: no jewelery (rings, ear rings, bracelets) as dangerous, no belt, not too much naked skin (sweaty, slippery, and for some people too sexy/uncomfortable; some decency, CI is a non-sensual practice)
 * no "parking" or socializing on the dancefloor, move to the sides
