@@ -1,9 +1,10 @@
 TO*DO list
 ====================================================================================================
 
-* run through auto-correct language tool
+* ... CURRENT: run through auto-correct language tool
 * proofreaders: ursula (bin/make_word.sh) julienne (send PDF? latex github sources)
 * start to sketch first few drawings
+
 * give it a proper (sub?!) title, e.g.:
   * "Small Steps into the Wonderful World of Contact Improvisation"
   * "Small Dance into the Art Form of Contact Improvisation"
