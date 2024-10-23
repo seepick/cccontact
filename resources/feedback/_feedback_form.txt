@@ -1,0 +1,29 @@
+// intention: clarity about expectations (avoid misunderstandings/disappointments on both sides)
+
+
+* give them a printed copy for free (motivate them, ben franklin's tactic)
+* they make notes inside book; i borrow temporarily to incorporate it...
+* ad form: template to provide feedback FOR EVERY chapter (to ensure enough length!)
+
+========
+
+
+thank you for taking time to review my book, your effort is much appreciated.
+in order to clarify expectations, so that your help is as useful as possible, here are some general pointers:
+
+* please use the following form, the questions and sections, to provide feedback
+* send back a plain text file (no word, pdf, or anything with formatting, no audio file)
+* please only agree doing this if you can make the necessary time investment (=commitment), otherwise i will be waiting for you and instead could have asked someone else
+* state what precisely you consider as bad and why, explaining the (possible) disadvantage, and provide an alternative on how to do it be better instead
+* please be aware and highlight your personal preferences versus more objective remarks
+
+1) general impression: very high-level, abstract overall gut-feeling
+2) typos: spelling/grammar, capitalization
+3) punctuation: usage of parenthesis "()", comma ",", dash "-", semicolon ";" (preferably with page/line reference)
+4) language: clear, self-explanatory terms used, difficult domain-specific terms explained in glossary
+5) style: easy to read, sentence structure/complexity/length, paragraphs semantically cohesive, word repetition
+6) eloquence: too simply adjectives (e.g. nice, good) or too difficult ones?
+7) order: of chapters makes sense, proper build-up, red thread following
+8) content: is text in chapter fitting or better in another (existing/new one)
+9) design: drawings, layout remarks, "text grey"
+10) images: can additional images/figures help better understanding?
