@@ -4,33 +4,57 @@
     <link rel="shortcut icon" href="favicon.ico" />
     <style>
         body {
-            background: #F5F0EF;
+            padding-top: 40px;
+            background: rgb(47,40,34);
+            background: linear-gradient(180deg, rgba(47,40,34,1) 0%, rgba(83,71,60,1) 23%, rgba(83,71,60,1) 100%);
         }
         * {
-            color: black;
+            padding: 0;
+            margin: 0;
+            color: white;
             font-family: "Goudy Bookletter 1911", sans-serif;
         }
-        h1 {
-            margin-bottom: 5px;
+        p {
+            padding-bottom: 10px;
         }
-        #root {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translateX(-50%) translateY(-50%);
+		#middleWrapper {
+			width: 100%;
+			display: flex;
+  			justify-content: center;
+		}
+		#middleCentered {
+			max-width: 450px;
+		}
+        h1 {
+            font-size: 32pt;
+            filter: drop-shadow(rgba(0,0,0,0.8) 2px 2px 3px);
+        }
+        #logo {
+            filter: drop-shadow(rgba(0,0,0,0.5) 0px 0px 10px);
+            border-radius: 15px;
+            -moz-border-radius: 15px;
+        }
+        #logoWrapper {
+            padding-top: 20px;
+            padding-bottom: 25px;
         }
     </style>
 </head>
 <body>
 <div id="root">
     <div style="text-align:center">
-        <h1>Contactbook</h1>
-        <img src="logo.jpg"/>
+        <h1>Contact Book</h1>
+        <div id="logoWrapper">
+            <img id="logo" src="logo.jpg" alt="logo"/>
+        </div>
     </div>
-    <p>A small, opensource book about the beautiful art-form of <b>Contact Improvisation</b>.</p>
-    <p>The book will be permanently updated, and you can <a href="https://raw.githubusercontent.com/christophpickl/contactbook/main/Contact-Book.pdf"><b>download</b> it as a PDF</a>.</p>
-    <p><i>Comments and requests</i> can be done via <a href="https://github.com/christophpickl/contactbook/issues">reporting an issue</a>, and <i>contributions</i>  via the means of <a href="https://github.com/christophpickl/contactbook/pulls">pull requests</a>.</p>
-    <p>For get in direct <b>contact</b> with me, feel free to send me a mail via <a href="mailto:christoph.pickl@gmail.com">christoph.pickl@gmail.com</a>.</p>
+    <div id="middleWrapper">
+        <div id="middleCentered">
+            <p>A copyleft/opensource book about <b>Contact Improvisation</b>.</p>
+            <p>It will be available as a free PDF and via an on-demand printing service, somewhere in the first quarter of 2025.</p>
+            <p>To get in direct contact with me, feel free to send an e-mail to:<br/><a href="mailto:christoph.pickl@gmail.com">christoph.pickl@gmail.com</a></p>
+        </div>
+    </div>
 </div>
 </body>
 </html>
