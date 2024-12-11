@@ -41,7 +41,7 @@ record with phone, and transcript it later, and extract info to put in CI book.
 * what are the core movement principles/patterns?
 * are there "clearly defined, labeled techniques" or is CI a more principle based system?
 * what are some of your favorite mottos?
-* most used classes' animals (octopus, koala, panda, elephant) and sounds (umpf, bots, wee, wushiwushi)
+* most used classes' animals (octopus, koala, panda, elephant) and sounds (oomph, bots, wee, wushiwushi)
 
 6. OUTRO
 ========================================

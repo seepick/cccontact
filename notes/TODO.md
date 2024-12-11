@@ -23,6 +23,7 @@ RESOURCES to be incorporated
 * [ ] XXX: https://www.youtube.com/watch?v=9FeSDsmIeHA
 * [ ] XXX: https://compendium.copim.ac.uk/practices/60
 * https://wiki.yoga-vidya.de/Contact_Improvisation
+* [ ] Workshop-2024-12-pelvis.md
 * [x]/[x] Book-Gravity.md (summarize/incorporate)
 * [x] Workshop-2024_10-grounding.md
 * [x] Workshop-2024_07-flying.md

@@ -1,22 +1,29 @@
 ABOUT: also physiology bit, functional-anatomy/bio-mechanics, and relevant injuries (pathology)
 
-* ad anatomy: muscle fibers (big/medium/small ones, innervening)
+* ad common mistakes:
+    * 1 foot 2 feet.
+    * foot not leg. hand not arm.
+    * among others: stomach not belly.
+    * foot/feet/feets, one feet (same with "not stomach, but belly/frontside"
+* muscle fibers (big/medium/small ones, innervening)
 * https://en.wikipedia.org/wiki/Proprioception
-* ad anatomy: foot/feet/feets, one feet (same with "not stomach, but belly/frontside"
-* ad anatomy: "box" = torso basically; "ships" = shoulder and hips (connected, moveable in all 3 dimensions/planes)
-* ad anatomy: pelvic/shoulder girdle
+* "box" = torso basically; "ships" = shoulder and hips (connected, moveable in all 3 dimensions/planes)
+* pelvic/shoulder girdle (see pelvis notes for workshop; wikipedia article)
 * 5 senses plus: balance (vestibular sense), body position (proprioception), movement (kinesthesia); and: pain (nociception), temperature (thermoception); ... many more
-* ad anatomy: check that the word "tonality" is explained (=muscle tension)
+* check that the word "tonality" is explained (=muscle tension)
 * write more about anatomy, vestibular/inner ear
 * processus spinosus - part of spine bulging out (protrusion), when you do a roll wrong
 * idea: small chapter about basic injuries (after quick intro into tissue and stuff), like dislocation, hematome; what it is, how it might happen, and how to treat it (movement/stillness, taping, warmth/cold, massage, ...)
 * HOMO- VS CONTRA-lateral
   * contra-lateral (opposite side): natural way of walking; exaggerate by doing a "catwalk" (swing arms, move shoulder blades/pelvis)
   * homo-lateral (same side): walking like a "penguin" (not to confuse with uni/bi-lateral)
-* ad anatomy:
+* advanced stuff
   * biomechanical engineering concept: tensegrity (tension integrity)
     * not muscle+bones, but connective-tissue + bones
   * "box" is area between ships (shoulders + hips)
   * add muscle contraction  (sarcomeres, myosin/actin)
   * (many people don't know the word) tonality: we have a default (usual unconscious) level of muscle tension; we have a range to be able to play within
 * movements: https://www.youtube.com/watch?v=boNlEYQ5M5c
+* pelvis movements terminology; tilting, rotating (like with simple joints flex/ext, abd/add, pro/retr, elev/depr). be very clear/deliberate and precise/technical. slowly add complexity by combining planes/movements.
+  * "core" is more than just rectus abdominis (and transv/obliques). it's all what's connected to the spine. also back. also legs. latissimus, etc...
+  * tensegrity model.

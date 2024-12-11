@@ -5,7 +5,7 @@
   * dance and have different levels with different body parts; be super conscious about it
     * easily tempted to use sliding contact with skin touch; try to stay with rolling point
   * trio, 1 in middle, 2 other adapt to depth level (qualities of contact) of one in the
-* from knee sitting, other partner is standing on the side, pelvis&shoulders connect; from knee sitting into little animal, other partner goes with (sharing weight, yet sliding point of contact); and then A) fingers pointing away (easier) or B) towards the partner (more difficult). roll over partner, maybe with a small kick, make sure center-on-center (balanced; have a pause, break, verify you are stable, thus having all the options available again). go down on same or other side. stay in contact! don't lose umpf quality! for the base: you move, lower, support, push where needed.
+* from knee sitting, other partner is standing on the side, pelvis&shoulders connect; from knee sitting into little animal, other partner goes with (sharing weight, yet sliding point of contact); and then A) fingers pointing away (easier) or B) towards the partner (more difficult). roll over partner, maybe with a small kick, make sure center-on-center (balanced; have a pause, break, verify you are stable, thus having all the options available again). go down on same or other side. stay in contact! don't lose oomph quality! for the base: you move, lower, support, push where needed.
 * bodysurf: start sitting back2back; legs bent (can push). one partner reaches stretched arms up and to one side, going onto his belly. other partner goes over, from other side, with his back on the lying partner (stay on the back, no spiral, otherwise no continuation easily possible; in this exercise). important: base is chicken-wing hooking the upper partner to ensure the centers are connected; also helps with the flyer, when he "drops", to use this as leverage to get up, ending into seated position again.
 * sit side2side, both spread legs; one partner rolls over between other's legs, reaching arm between first; then is upside down (weird/funny position, butt towards other's chest). stay very close to center (don't put weight on legs, painful); stay slow & controlled. sitting partner helps rolling partner with arms to roll over. also possible with 3 people (2 people back2back and 1 "roller")
 * rolls: alone, animal, standing
@@ -184,3 +184,27 @@ partner touches 2 points, and you connect those (decide which one is starting an
   * after saying "3-2-1-pause", do the good old (but without it being instructed) breathe-sense-ground
   * difficult to stay connected with partner when starting to extend
 
+* handstand shoulderlift (do it in trios, or even quartetts)
+  * 1) prime in warm up movement from the head. head, leading. use eyes. spiral. breathe. move fingers. and: don't bump!
+  * 2) start with partner standing behind you, both of his hands on your shoulder blades, giving oomph
+    * now walk around together, while partner is always keeping his hands on your back, sliding it (no rolling point of contact) on the back, shoulder blades, lower back, pelvis...
+    * walk while leading your movement from the head, your partner still connected.
+    * continuation: every now and then, i position myself in gorilla and stop for a moment, inviting partner to jump a bit (using her hands to push into me, a lift to jump)
+  * 3) show your handstand abilities.
+    * no need to stay long in it, just with straight legs going up, and down. possibly do it against a wall.
+    * do not throw your legs, but going down with your arms first, and then controlled handstand.
+    * show it to each other. safeguard each other.
+    * CAVE: do it "more" one-legged. one goes higher up, and the same goes down again (don't switch mid-air, otherwise partner will "fall into a hole").
+  * 4) now me doing quick handstand, partner standing "behind".
+    * catching one leg (not both) with open palm (not really grab, just stop it); when i go down with my other leg, partner lets go.
+  * 5) now partner catching leg, and follows me with his hand.
+    * while doing so, i go towards her, she walks with me (backwards) keeping same distance.
+    * either same side hand, then slide to pelvis, and other hand on shoulderblade. or crossed, then slide to shoulder blade, and other find pelvis.
+    * i go directly into gorilla, and partner jumps on me quickly.
+    * tip: when i stay low, and turn a bit towards her, then it's easier for her to jump.
+  * 6) final build up: i go in her direction, she maintains distance, i do a handstand, and when i go down again, i shoulder lift her
+     * start first with an "artificial" (if enough strength). slow. without momentum.
+     * i need to create a bit of distance so she can jump (controlled, timed, soft).
+     * she can stay with one hand on my body, to have a feeling for distance and softer landing.
+     * ALTERNATIVE: for those who don't want to do it, either stay being a guardian angel, or stay with the previous exercise
+  * this happens when i walk forward, and my partner next to me backwards. i can see that as an invitation to do a handstand and see whether she picks it up (or not). just watch out to kick no one in the face.
