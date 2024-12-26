@@ -117,3 +117,29 @@ what makes a good dance? (INTERVIEW with pau)
     * not staying too much/too strictly with CI technical paradigm/dogma; working with what is 
   * trust, predictability (without too much forced control)
   * the mysterious oomph quality; support, sharing weight, ...
+
+
+* rolling "point" of contact
+  * can also be multiple ones, points
+  * can also be a surface area
+  * yet, usually try to be "pointy", by bugling out, a clearer communication established
+  * more than 2 points: several information streams at the same time, very advanced; keeping track of them
+* a proper "exercise attitude"
+  * active research is different than "simply dancing/enjoying", simply applying it (application), having fun/pleasure
+  * it makes the dance "bumpy", less good, less pleasant; it's meant to be!
+  * this is where growth happens, outside th eknown/the habits/the comfort-zone; into the learning zone
+  * less pleasing also for the partner; don't be afraid to do mistakes (ego; self-worth); less showing off
+* in partner exercises, think for your partner
+  * the signal you send, the specific challenge you choose (which body part, which command)
+  * being a good exercise partner by being aware on a meta-level; to think ahead, and know what and why you are doing
+  * "foerdern durch fordern"; to support by challenge; stay in proximal development area (in learning zone; not comfort, not panic zone)
+* "in my head"
+  * what it means: to have distracting thoughts, unproductive, irrelevant here
+  * yet, don't confuse with focused attention; being present, with "heart and brain", with "body and head"; united
+  * if growth is relevant, then it is effortful
+  * stages
+    * as a beginner: just fun, effortless, chaotic
+    * intermediate: hard effortfull work, precise, controlled
+    * advanced: effortless, precise and controleld, or chaotic if choses to (knowing the risks)
+    * like driving a car: as a child, pretend to drive, super fun, without effort, talking while doing; then doing hard work of exam for a driver license, having to practice and study theoretically, stress in traffic; and now as an adult again enjoying driving without even thinking about it, effortless, on auto pilot, as in "how did i get home?"
+* 

@@ -7,6 +7,19 @@ what to do first?
 * let grammar/spelling/wording checked by professionals (julien knows)
 * get licensing right
 
+EMBED FONTS
+----------------------------------------------------
+open your pdf file,
+select file -> print
+set your printer to be Adobe printer (assuming you already installed it)
+click on properties
+click the tab "Adobe PDF Settings"
+uncheck "Rely on system fonts only; do not use document fonts"
+click on the Edit... after Default Settings
+click on Fonts, add those missing fonts to "Always Embed" (It is recommended to save the properties as a new setting.)
+print the pdf file with the new settings, and your new pdf file should be good to go.
+Tip: when (or if) it asks you to save the PDF settings file, save it in the suggested Adobe settings folder
+
 PUBLISHERS
 ====================================================================================================
 
@@ -27,10 +40,57 @@ https://www.lulu.com
 * used by helga
 * global distribution more expensive; on demand VS 1k from asia; gives ISBN, keep rights
 * lots of great options, website looks good
+* dimensions: 13.7cm x 21.6cm (A5?)
 * about EUR 4,- per book
   * black white from standard to premium +1 EUR
   * from paper: uncoated 60 to coated 80 +0.60 EUR
-
+* color options:
+  * ink: standard / premium B&W; standard / premium color
+  * paper: 60 uncoated white, 60 uncoated cream, 80 coated white
+  * how to choose:
+    * if purely text => 60 uncoated, standard BW
+    * little sketches (like m) => 80 coated white, premium B&W
+    * for font color and little graphs => 60 uncoated white, standard color
+    * for high-res photos => 80 coated white, premium color
+* PPI will be translated to DPI (usually min 150 PPI to optimally 300 PPI for complex/detailed graphics)
+* RGB (screen) or CMYK (print), doesn't matter, will both be handled
+  * Lulu printer color space profiles = RGB: sRGB IEC61966–2.1 and for CMYK: Coated GRACoL 2006
+* formatting terms:
+  * total document size: total dimensions of file (incl. "bleed")
+  * spine area: its width depends on page count (use formula); for paperback/hardcover (coil bound/saddle stitch dont have it)
+    * or: after uploading interior file (they know page count), they will indicate spine area in provided cover template
+    * spin width in mm = (interior pages count / 17.45) + 1.524mm
+  * safety margin: border between trimmed edge and important content; prevent unintended trimming
+  * bleed area: for smooth edges; first printed oversized, then trimmed down (cut); extra paper is called "bleed"
+    * 3.175mm bleed margin!!! if nothing goes to the edge, simply prepare file at book's filna trim size (system will add bleed margin)
+  * full bleed: only necessary if print to the very edge of the paper (opposed to always white margin around the body)
+  * barcode area: optional; only for global distribution (IBAN)
+  * gutter area: an increased page margin, where pages meet at spine (binding side); "gutter additions" = more space on that 1 out of 4 sides; (not needed for coil bound & saddle stitch)
+    * 61-150 pages: 3mm added, 16mm total inside margin
+    * 151-400 pages: 13mm added, 25mm total
+* cover layout
+  * lulu generated cover available (quick and easy)
+  * first upload interior file; based on that, download cover template
+  * upload cover as flattened, font embedded PDF
+* file preparation:
+  * uploade interior file to Lulu, they will scan/analyze it, and give feedback
+  * always REVIEW the print ready files (before completing publishing process)
+  * interior file specs:
+    * single-page PDF, portrait layout
+    * containing: title & copyright pages (& blank pages, if needed)
+    * images 300-600 PPI
+    * fonts embedded
+    * do NOT include trim/bleed/margin lines
+  * cover file specs:
+    * single page, "integrated spread" PDF (containing front cover, back cover, and spine between)
+    * Lulu will provide a template (after uploading interior file)
+    * images 300-600 PPI
+    * fonts embedded
+    * do NOT include trim/bleed/margin lines
+* proofing: print a single book, proof-read
+  * look for: typos, inconsistencies
+  * common issues (not visible on screen): image resolution, transparencies, unembedded fonts
+  * 
 
 Book Mundo
 ------------------------------------------------------------------------
@@ -59,6 +119,8 @@ Other
 ------------------------------------------------------------------------
 * https://www.ridderprint.nl / dutch based / they just print it for me, beh
 
+
+
 NOTES
 ====================================================================================================
 => everyone participated gets a free copy of the book (tom, ariane, paris, ...)
@@ -79,6 +141,11 @@ Contact Improvisation
 * "Crash Course Contact"
 * "Survival Guide for Beginners to Contact Improvisation"
 * CI, a basic survival guide
+
+
+Crash Course Contact
+Small Steps into the Wonderful World of Contact Improvisation
+
 
 PROMOTION - announce/marketing/PR
 ====================================================================================================

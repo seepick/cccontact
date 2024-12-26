@@ -1,0 +1,2 @@
+* when walking out of the studio, we usually forget to be conscious of our movements
+  * // karate: dojo, enter/leave, stop/start

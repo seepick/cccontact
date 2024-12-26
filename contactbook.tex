@@ -1,10 +1,14 @@
-\documentclass[11pt]{book}
+%\documentclass[11pt]{book}
+\documentclass[a5paper,11pt]{book} 
+\usepackage[utf8]{inputenc}
 \usepackage{geometry}
 \geometry{
   paper=a5paper,
-  margin=54pt,
+  margin=54pt, %margins on all 4 sides of the page
   includeheadfoot
 }
+%\usepackage[margin=0.5cm, paperwidth=88.184mm, paperheight=113.854mm]{geometry}
+
 \usepackage{graphicx}
 \usepackage{url}
 \usepackage{hyperref}
@@ -12,20 +16,66 @@
 \usepackage{wrapfig} % wrap text around image
 \usepackage{csquotes} % for displayquote env
 
+
 \usepackage{caption}
 \captionsetup[figure]{font=footnotesize,labelfont=footnotesize}
 
-% TODO newcommand exercise reference (to wiki)
-
-\newlength\mystoreparindent
-\newenvironment{leftindent}[0]{
-\setlength{\mystoreparindent}{\the\parindent}
-\setlength{\parindent}{0pt}
-}{
-\setlength{\parindent}{\mystoreparindent}
-}
 \setcounter{tocdepth}{0} % only chapters in ToC
 \setcounter{secnumdepth}{0} % no numbering of sections
+
+
+% TODO newcommand exercise reference (to wiki)
+%\newlength\mystoreparindent
+%\newenvironment{leftindent}[0]{
+%\setlength{\mystoreparindent}{\the\parindent}
+%\setlength{\parindent}{0pt}
+%}{
+%\setlength{\parindent}{\mystoreparindent}
+%}
+
+\usepackage{titletoc}
+\renewcommand{\contentsname}{Chapters}
+%\dottedcontents{section}[0em]{\bfseries}{2.9em}{1pc}
+%\dottedcontents{subsection}[0em]{}{3.3em}{1pc}
+\titlecontents{chapter}
+[0.0em] %5.3
+{\vspace{0.2em}} % vertically between
+{\textbf{\thecontentslabel}~\textbf}%\thecontentslabel
+{\hspace*{-5.5em}\textbf}% unnumbered chapters
+{\titlerule*[1pc]{.}\contentspage}[\smallskip]%
+
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+%\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+%\renewcommand{\sectionmark}[1]{\markright{The Book Title}}
+
+%\fancyhf{}
+%\fancyhead[LEH,ROH]{}
+%\fancyhead[LE]{\makebox[1.5em][l]{\thepage}\textbf{\nouppercase{Kapitel \thechapter: \leftmark}}}
+%\fancyhead[RO]{\textbf{\nouppercase{\rightmark}}\makebox[1.5em][r]{\thepage}}
+
+% https://www.overleaf.com/learn/latex/Headers_and_footers
+\fancypagestyle{plain}{ %
+  \fancyhf{} % remove everything
+  \fancyfoot[LE,RO]{\thepage}
+  \renewcommand{\headrulewidth}{0pt} % remove lines as well
+  \renewcommand{\footrulewidth}{0pt}
+  }
+\fancypagestyle{fancy}{ %
+  \fancyhf{} % remove everything
+  \fancyfoot[LE,RO]{\thepage}
+  \renewcommand{\headrulewidth}{0pt} % remove lines as well
+  \renewcommand{\footrulewidth}{0pt}
+  }
+\fancypagestyle{empty}{ %
+  \fancyhf{} % remove everything
+  \renewcommand{\headrulewidth}{0pt} % remove lines as well
+  \renewcommand{\footrulewidth}{0pt}
+  }
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \title{Contact Book}
 \date{\today}
@@ -35,23 +85,47 @@
 
 \begin{document}
 
-%\pagenumbering{gobble}
-%\pagenumbering{arabic}
-
-\maketitle
-
-\tableofcontents
-\vfill
+\begin{titlepage}
 \begin{center}
-	\textit{Moving in unity.}\\
-	\textit{Guided by the moment.}\\
-	\textit{In eternal spirals.}
-\end{center}
-\vfill
-\noindent
-\footnotesize{Get in contact via \url{https://christophpickl.github.io/contactbook/} or \\ \href{mailto:christoph.pickl@gmail.com}{christoph.pickl@gmail.com}}
-\newpage
+	
+	\vspace*{\fill}
+	
+	\fontsize{22}{0}\selectfont
+	CRASH COURSE CONTACT
+	\vskip 5mm
+	%\rule{\textwidth}{0.4pt}
+	\rule{90mm}{0.4pt}
+	\vskip 0mm
+	\fontsize{15}{20}\selectfont
+	Small Steps into the Wonderful World of \\ Contact Improvisation
+	
+	\vskip 70mm
+	
+	\vspace*{\fill}
 
+	\fontsize{10}{0}\selectfont
+	1st Edition - \today
+\end{center}
+\end{titlepage}
+
+\pagestyle{empty}
+\tableofcontents
+\clearpage
+\ifodd\value{page}\else
+  \thispagestyle{empty}
+\fi
+
+\pagestyle{fancy}
+
+%\vfill
+%\begin{center}
+%	\textit{Moving in unity.}\\
+%	\textit{Guided by the moment.}\\
+%	\textit{In eternal spirals.}
+%\end{center}
+%\vfill
+
+%\newpage
 
 \input{chapters/about}
 \input{chapters/definition}
@@ -66,7 +140,6 @@
 \input{chapters/anatomy}
 \input{chapters/physics}
 \input{chapters/movement}
-\input{chapters/resources}
 
 %\listoffigures
 %\listoftables

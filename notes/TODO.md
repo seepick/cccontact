@@ -13,17 +13,19 @@ SMALLer TODOs
 
 RESOURCES to be incorporated
 ------------------------------------------------------------------------
-* [ ]/[ ] book martin (summarize/incorporate)
+* [ ]/[ ] interview anouk (organize/incorporate)
+* [ ]/[ ]/[ ] book CI2 (read/summarize/incorporate)
+* [x]/[ ]/[ ] book martin (read/summarize/incorporate)
 * [ ]/[ ] interview paris (organize/incorporate)
 * [ ] XXX: https://youtu.be/9FeSDsmIeHA?si=h3kcbSBgbbz2mhbM
-  [ ] trust: https://www.youtube.com/watch?v=cWypWe9UAhQ
 * [ ] XXX: https://www.youtube.com/watch?v=9FeSDsmIeHA
 * [ ] XXX: https://vienna.contactimprovisation.at/beginners
 * [ ] XXX: https://en.wikipedia.org/wiki/Contact_improvisation
 * [ ] XXX: https://www.youtube.com/watch?v=9FeSDsmIeHA
 * [ ] XXX: https://compendium.copim.ac.uk/practices/60
-* https://wiki.yoga-vidya.de/Contact_Improvisation
+* [ ]/[ ] https://wiki.yoga-vidya.de/Contact_Improvisation
 * [ ] Workshop-2024-12-pelvis.md
+* [x] trust worth it: https://www.youtube.com/watch?v=cWypWe9UAhQ
 * [x]/[x] Book-Gravity.md (summarize/incorporate)
 * [x] Workshop-2024_10-grounding.md
 * [x] Workshop-2024_07-flying.md
@@ -33,6 +35,7 @@ RESOURCES to be incorporated
 
 IDEAS
 ------------------------------------------------------------------------
+* incorporate Movement Notation document (kinesiology, etc.)
 * add waaaay more sketches with explanatory symbols (little people, roughly drawn, with arrows indicating directions, etc.)
 * => generally comment for book: be balanced in judgments, shine light to cons AND PROs! e.g. when talking about flow/fun/feel/...
   * at the end, explicitly then state my personal opinion (like kurzgesagt does)
@@ -41,7 +44,7 @@ IDEAS
 * @tom: can you give me all your CI videos? :)
 * latex templates: https://www.overleaf.com/latex/templates/tagged/book
 * ask that blonde lady, which interviewed me once; whether i can get her notes please (from all she interviewed).
-
+* research "muscle memory"
 
 LATER
 ------------------------------------------------------------------------
