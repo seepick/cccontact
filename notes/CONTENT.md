@@ -142,4 +142,27 @@ what makes a good dance? (INTERVIEW with pau)
     * intermediate: hard effortfull work, precise, controlled
     * advanced: effortless, precise and controleld, or chaotic if choses to (knowing the risks)
     * like driving a car: as a child, pretend to drive, super fun, without effort, talking while doing; then doing hard work of exam for a driver license, having to practice and study theoretically, stress in traffic; and now as an adult again enjoying driving without even thinking about it, effortless, on auto pilot, as in "how did i get home?"
-* 
+* when advanced look for beginners to dance with; something that happens often in the (professional) dance community:
+  * they want to get inspired, breaking their habits/patterns; beginners are not yet too "biased" (betriebsblind); otherwise usually "incest" (like in martial arts)
+  * to get back to the more (relevant) basic principles; they are bored by the hoopedipoop-techniques (lifts)
+* language metaphor:
+  * beginners don't talk the language yet, still they try to say "something", so they just say random things; sometimes they are lucky, and say something of meaning, yet not knowing what the meaning of it is; an accident; something that will lead to a surprise
+  * when I speak french, but you speak spanish, after some time of not being successful understanding each other, we simply switch back to the common denominator: gibberish. only (simple) tone/melody, making sounds (movement), but no (exclusive) words/grammar (lifts)
+* "going fast is easy, going slow is difficult"
+  * fast, mistakes can easily by covered up/masked; being off balance
+  * slow, needs way more control
+  * slow is everything zoomed in; the small hickups will be huge/visible
+  * our fast mentality, expressed through movement
+  * when you can do it slowly, you can do it fast
+* "you see, you know immediately, whether someone got skill or not; you see their personality expressed; the flow, the talents... try to make it explicit. what is it precisely that makes them so? enumerate criteria"
+* sensitivity (=the ability to listen) requires gentleness/softness. softness is minimum effort/tensions, min. engagement of muscle fibres
+  * a higher-resolution of neuro-muscular connection. precision: 82% vs 82.3% of activation (tension). like kink-spanking: being able to hit with 40% vs 45%, to slowly expand the comfort zone. otherwise: danger, risk of injury, going too fast, breaking boundary, breaking a person, or at least a bone.
+* too much wanting, forcing it. not enough openness, improvisation; being and listening what the moment want to unfold, letting yourself be surprised without anticipation.
+* beginner's mistakes: // always describe what is wrong (observable facts), why it is wrong (dangers, inefficiencies) and tell what's better instead (what&why) AND: "nothing wrong, as long as know what you are doing"
+  * off-balance, leaning (not sharing weight); like a plank, a diagonal shape; instead of bending knees and hips, and have upper body upright sharing into the shared center of mass.
+  * lifts are often a matter of grabbing, with mere muscular force; instead of passively invite, moving the center underneath
+* closing your yes is very much different; more perception, sensory capacity shifts from visual to tactile (like blind people hear more)
+  * now try to move your head: losing sense of orientation (where's up/down), play with it (if you dare)
+* motto: "limitation gives freedom"
+  * sparkles creativity due to a necessity
+  * total freedom is something we actually don't want, although we might scream for it; we humans like to have boundaries, to be kept safe in a cage
