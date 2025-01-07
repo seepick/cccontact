@@ -166,3 +166,51 @@ what makes a good dance? (INTERVIEW with pau)
 * motto: "limitation gives freedom"
   * sparkles creativity due to a necessity
   * total freedom is something we actually don't want, although we might scream for it; we humans like to have boundaries, to be kept safe in a cage
+
+* 2 types of beginners:
+  * 1) body beginners; in general no connection to their bodies, no experience in moving, sensing their body; they first need to learn to alphabet before studying shakespear, otherwise they will struggle a lot
+  * 2) system beginners: people who have general skill in body stuff, but lack knowledge & experience in this specific system; they will catch up/learn very quickly
+
+* what makes a beginner a beginner; how to identify, in clear/specific criteria:
+  * 1) separation of body; especially arms isolated movement; no whole body integration; not leading from the center
+  * 2) "circle sickness", once they learn rolling point of contact, they keep on doing it until dizzy; not yet have learned other wise to roll (instead of just rotating)
+* unconscious processing of information, e.g. "sensing the center of your partner", or "sensing energy" (more generally what people, esp. women/hippies say), "sensing energy in the room" (when meant literally, as in some meta-physical substance being able to be perceived in some not yet known sensory organ; instead of the more likely event of being unaware of the unconscious processing of regular sensory information; visual obviously, but also olfactory lots going on below conscious level; e.g. cave, bear, fear story); people just don't know any better, they explain it with romantic stories, because otherwise nothing available to explain it
+* small dance: usually from regular standing, but also possible in any position (exception when fully relaxed lying down); search for the unstable/unbalanced position, to amplify it (the wobblying, the shaking)
+  * even durin gwalking able to sense, short moment when one-legged, a subtle shake, that's it.
+* when spiraling down from a lift, often we lead from the foot/toe, but try to lead from the pinky finger; will result in more extended (reaching) body posture, maybe it might feel even a bit more scary...
+* in general, often under represented: leading from the finger; also engage eyes, actively, leading from them (will move the head implicitly, no other way)
+* get to know your partner (their personality, thus their tendencies of movement), play with it
+  * "ask questions and listen carefully", e.g. be more leading/dominant, check whether he is receptive to it, or pushing against it.
+  * basically: send signals and await a response form it, forming a more copmlete picture of that person
+* playing with architecture, like drawing, research, curoisity; esp. with 3+ dances, more possibilities arise to construct interesting shapes
+  * take time to find possibilities in a specific posture/structure/architecture, to know where weight can be given (and where it can't); a crucial skill to have an eye for that
+* "fast can be fun (and risky, and superficial), slow can lead to depth (heightened sensation, even intimacy), yet a pause leads to magic"
+* develop smart feet, making no sounds, soft and controlled
+* EXERCISE: partner is with his ear on the ground (maybe at first hand in between, otherwise too loud); eyes closed; other partner walks around, try to walk silently; then jumps and land soundless; partner on ground says "now" when hears landing; goal is that partner never has to say it
+* the lift is not initiated by the flyer, but invited by the base.
+  * not a forced action, but an open question (can be said yes or no to it)
+  * not as in "i invite you to stand up", which is using fake-polite language, it's usually a command hiding itself behind a nice facade (wolf sheep fur)
+  * when basing a lift, we invite/offer, and the flyer decides ultimately to accept it (or not; rejection feelings?!)
+  * we don't "force them" by grabing them (acrobatics?! martial arts throw?!); it's disrespectful, takes away autonomy
+  * yet, as with every rule; motto: "you can do whatever you want as long as you know what you are doing"; if you are advanced; know your partner very well; if it's a deliberate choice (and not an accident)
+* we don't jump on a base, never, rude!
+  * instead we pour our weight, or even better: we "melt" it.
+* EXERCISE: little animal, other person pours his weight on the partner, animal eyes closed and says "now" if they think that flyer not touch ground anymore/take-off (be as soft as when landing after a jump, no hick-up/sharp edges)
+  * Why?! in oldschool CI, they still do it (survival mode); but it's dangerous, big impact, requires a lot of skill to "survive", safe yourself.
+* skill shows by moving without sound; like a big cat/tiger, elegant, fast, strong, powerful, soft, gentile; a silent killer
+* ad motto: if you dont fall, you are doing something wrong. growth is about (controlled) failure, not success. find your limits, explore, and expand them.
+* floorwork exercises. sit. tabletop. back. belly. ... each find edges. left, right. front, back. and then circle.
+* skinesphere (add to glossary): like kinesphere (from laban's "space harmony"), but the skin surrounding the body
+  * used for "grazing", a way in CI to say hello
+* advanced practitioners like to join beginner classes (enjoying the basics again), intermediate don't
+* "being in your head" = disproportional amount of thought, non-constructive cognitive effort
+  * also: overly self-critical inner voice, based on self-doubt and insecurity (fear of failing)
+    * yet, being critical itself is useful, even towards oneself, as it helps to get better, pointing out things, being integer (live up to one's own expectations)
+  * in opposition to "purely sensing with open awareness, free of judgments"
+* EXERCISE: tell partner "pause" and then { breathe - sense - ground }; take your time in-between the commands so your partner has some space to feel/experience
+  * try different orders of those 3 and check the difference/impact
+  * observer your partner when you tell him those things; any change visible?!
+  * "pause" already breathing happening; with any breathing, already grounding happening; only sensing might be different and solely happening on the inside (nothing visible)
+  * ground is relaxing, only downwards, breathe is expanding in all directions/inflating
+  * when the position is a strong one (effortfull), lots of tension, which makes it more difficult to ground/breathe/relax
+  * do this constantly while you move; of course an asymptotic goal, never to be reached, always aimed for

@@ -1,7 +1,7 @@
 TO*DO list
 ====================================================================================================
 
-SMALLer TODOs
+LAST DOINGS BEFORE PUBLISH!
 ------------------------------------------------------------------------
 * roter faden; book's ultimate goal:
   * watch out that it doesn't get too big (split afterward; maybe beginner VS experienced); less is more (30-100 pages)
@@ -9,7 +9,6 @@ SMALLer TODOs
 * bring more personal stories (anecdotes), make it relatable/personal. what happened in toms classes, martial arts, other dance classes (any movement or non-movement related), etc... inspire/motivate (like chen yinchung back then) 
 * !!! incorporate feedback v1; review the whole book again
 * rework glossary: scan whole document for (fancy) terms; rework existing ones (descriptions; capital casing??)
-* find more inspiring quotes
 
 RESOURCES to be incorporated
 ------------------------------------------------------------------------
@@ -35,6 +34,13 @@ RESOURCES to be incorporated
 
 IDEAS
 ------------------------------------------------------------------------
+* add https://en.wikipedia.org/wiki/Ziran
+* ad anatomy: the "core" is not only the abs (4 abdominal layers of muscles), way more: all the muscles that are connected to the spine! so also the back, upper legs, etc... 
+* ad physics: 3-body problem; a swing; chaos, unpredictable (like the weather); with 2, it's possible to predict, like 0.5secs before, easy, safe, even risky stuff is safe; but with 3 (a trio) it becomes impossible
+* when talking about spirals, add a lot of drawings. e.g. spherical spiral, cyclindric siral; vortex; spiral/helix from top and side
+* also address isue of men bein goverly sexual (a dating place?); human urges, unwanted behaviors; also women's inability to express (feel/know?) boundaries (freeze)
+* interview: ariane, feldenkrais approach (movement qualities; breathing; spiral movements)
+* research term "homologous"
 * incorporate Movement Notation document (kinesiology, etc.)
 * add waaaay more sketches with explanatory symbols (little people, roughly drawn, with arrows indicating directions, etc.)
 * => generally comment for book: be balanced in judgments, shine light to cons AND PROs! e.g. when talking about flow/fun/feel/...

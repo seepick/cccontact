@@ -1,0 +1,19 @@
+TIPS:
+*) make sure camera is straight, and lots of light
+
+
+
+GIMP:
+-> kleuren
+  -> verzading ... totally down (no color)
+  -> helderheid/contrast ... both 45
+  -> curves
+... cut out
+
+
+or: kleuren /
+  -> tint/chroma
+  -> belichting
+  -> componentent
+    -> kanalenmixer ... https://www.youtube.com/watch?v=9HR3IgftbDw
+        blue down,
