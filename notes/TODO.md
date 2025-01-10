@@ -34,6 +34,7 @@ RESOURCES to be incorporated
 
 IDEAS
 ------------------------------------------------------------------------
+* CAVE: remarks about feel/think, being in head while dancing; give empathy, be less attacking; provide solutions, tools, help to resolve it; be easy on yourself, make peace
 * add https://en.wikipedia.org/wiki/Ziran
 * ad anatomy: the "core" is not only the abs (4 abdominal layers of muscles), way more: all the muscles that are connected to the spine! so also the back, upper legs, etc... 
 * ad physics: 3-body problem; a swing; chaos, unpredictable (like the weather); with 2, it's possible to predict, like 0.5secs before, easy, safe, even risky stuff is safe; but with 3 (a trio) it becomes impossible

@@ -72,6 +72,13 @@ https://www.lulu.com
   * lulu generated cover available (quick and easy)
   * first upload interior file; based on that, download cover template
   * upload cover as flattened, font embedded PDF
+  * as of 1st edition:
+    * File Type: PDF
+    * Page Count: 1
+    * Dimensions: 12.209 x 8.52in / 310.11mm x 216.41mm
+    * Spine Width: 0.299in / 7.59mm
+    * Fonts: Embedded
+    * Layers: Flattened
 * file preparation:
   * uploade interior file to Lulu, they will scan/analyze it, and give feedback
   * always REVIEW the print ready files (before completing publishing process)

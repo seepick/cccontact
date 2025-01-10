@@ -1,19 +1,20 @@
-TIPS:
-*) make sure camera is straight, and lots of light
-
+TIPS making pictures:
+*) camera is straight (no perspective distortion)
+*) lamp is _below_ camera (but no shadow cast)
+*) lamp is also straight
+*) lots of light, but not too much/bright
 
 
 GIMP:
--> kleuren
-  -> verzading ... totally down (no color)
-  -> helderheid/contrast ... both 45
-  -> curves
-... cut out
+*) Colors / Saturation ... totally down (no color)
+*) Colors / Brigntess-Contrast ... both 30-50
+*) Colors / Curves ... like an S-shape
+*) cut out, feather 150
 
 
-or: kleuren /
-  -> tint/chroma
-  -> belichting
-  -> componentent
-    -> kanalenmixer ... https://www.youtube.com/watch?v=9HR3IgftbDw
-        blue down,
+or:
+*) Colors / Hue-Chroma ... chroma MIN, lightness bit up
+*) Colors / Exposure ... nah
+*) Colors /  componentent
+*) Colors /  kanalenmixer ... blue down, https://www.youtube.com/watch?v=9HR3IgftbDw
+

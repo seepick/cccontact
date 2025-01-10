@@ -214,3 +214,52 @@ what makes a good dance? (INTERVIEW with pau)
   * ground is relaxing, only downwards, breathe is expanding in all directions/inflating
   * when the position is a strong one (effortfull), lots of tension, which makes it more difficult to ground/breathe/relax
   * do this constantly while you move; of course an asymptotic goal, never to be reached, always aimed for
+* mastery is elegance. moving with as little movements as possible (just 1 curved lines). counting the number of differentiable movements (pathways). moving also with as little effort as possible (minimum is not equals zero); energy-efficiency. having to readjust because of initial misplacement is bad.
+
+spiral "addon" class
+----------
+* EXERCISE: first stand (later walk around)
+  * draw circles with your finger(s); change axis/plane; change direction
+  * move axis inside the body and out again
+  * walk around and turn while drawing your circles
+  * increase complexity: imspiring spiral movements; from arms to: spine/torso, pelvis, knees, ...
+  * CONT: slow down, make movements larger
+    * draw curves (instead of spirals), almost like lines
+  * CONT: find a partner
+    * follow their curves as if they are "snail traces in space"
+    * then catch up with them (not only follow, but take over), and extend the movement, accelerating their spirals
+  * LALA land instruction: add spiral not from arms/body, but from space around (arm pits, etc.)
+  * motivates visualization skills, seeing those trails in space; like when a camera with long exposure time, lights being moved
+  * sliding on them, projecting/extrapolating them
+  * esp. in trio, take from A, and "put into" B
+  * tap into the qualities, internalize them "magically" (=without much conscious awareness/thought)
+* being slow = sense more, but harder to get momentum
+  * beginners need momentum to catch a spiral, speed helps to compensate for hiccups; advanced can also do it slowly
+  * spirals are usually making you go faster
+    * esp. extended limbs, increase angular momentum/distance from center
+* EXERCISE: (already in workshop)
+  * lie on back, partner takes head; first just weight, hands on ground; take lots of time, slowly
+  * when more than 45 degrees, start to move with (open eyes!)
+  * slowly stand up
+  * supportive partner enhancing spiral movements, see his pathways
+  * one hand on head, other on body
+  * 2 phases: 1) give impulses (lead/follow) 2) partner generates spirals himself (self-sufficient/independent)
+  * then: join in with your body, manipulate with the box (instead with the hands)
+  * great exercise to learn new pathways
+  * but: it's an exercise/practice, not "applied CI/dance"
+    * not egalitarian, it has a hierarchy, leader/follower; also no sharing weight, not improvised but directed
+  * knowledge about anatomy is of use, playing on the edges of possibilities
+    * not dislocating a joint, playing safe, but using joints limitations to push into the center
+      * head has highest leverage: small push, big impact
+* EXERCISE: with partner, 1 crossed arms, other straight arms
+  * touching palms (no grabing, ever!)
+  * push quite a lot, for support/stability
+  * lifting (search for center) with "y-hands", partner needs to bend wrists, push against, to lift up
+  * OPTIONAL: 3rd person (=satellite) seeing spirals in space, and suggesting them, helping duette to embody them
+    * without touch, just "draw in space", being like a conductor 
+    * VARIATION: 3rd person is going to just touch a bit, stroke, draw lines on body to "inject"/extend pathways, giving impulses, actualizing potential spirals
+  * don't go on the floor
+  * don't over-commit to the hand touch (use as landing gear if needed, don't fall on your nose to maintain hand connection)
+  * after a lift, palm-pressure nice to push partner into a spiral
+  * satellite is mostly a guardian angel, esp. during lifts; seeing, training eyes
+* fun game: after a dance, come up with a movie title fitting the dance, e.g. "kampf der giganten"
