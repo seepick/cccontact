@@ -263,3 +263,13 @@ spiral "addon" class
   * after a lift, palm-pressure nice to push partner into a spiral
   * satellite is mostly a guardian angel, esp. during lifts; seeing, training eyes
 * fun game: after a dance, come up with a movie title fitting the dance, e.g. "kampf der giganten"
+
+* Be aware of the difference between learning/practicing and dancing/applying it. (like in karate: the form/kata when practicing exact, when applying must be different, as adapted to the unique situation; and every execution/situation is different/unique)
+  * While we practice, we do it more statically and use (as done in this technique) our hands to push into the partner/floor.
+  * During a real dance, we would not use our hands, and instead push from our center/pelvis.
+This requires a lot of support (__oomph__) from our base; without it, it won't be possible.
+  * Also pay attention to the general rule of adapting technique according to partner differences.
+The height difference will dictate whether we push into the body (for shorter people) or into the ground (for taller people, reaching over the base).
+* using hands means cheating; sometimes though needed.
+  * use hands to push, give leverage support; chicken wings/legs. in any of the 3 levels (floor, lil animal, standing(hip/shoulder))
+
