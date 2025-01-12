@@ -1,0 +1,5 @@
+we want max 600dpi (for printing house)
+let's say 500dpi...
+
+the size of the chapter cover is 2.5in height
+thus: 2.5in * 500dpi = 1250 pixels height

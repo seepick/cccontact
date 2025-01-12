@@ -272,4 +272,10 @@ This requires a lot of support (__oomph__) from our base; without it, it won't b
 The height difference will dictate whether we push into the body (for shorter people) or into the ground (for taller people, reaching over the base).
 * using hands means cheating; sometimes though needed.
   * use hands to push, give leverage support; chicken wings/legs. in any of the 3 levels (floor, lil animal, standing(hip/shoulder))
-
+* SPIRALS
+  * differentiate initiation: not only fingers VS toes, but also whether FRONT vs BACK
+    * moving one side forward, or the other backwards
+    * might feel a bit like more about intention than actual movement
+  * getting dizzy (or even nauseous):
+    * solution is to slow down, to change direction, or to focus on a point (like ballet people are doing)
+    * good news: it will get better over time doing it more often
