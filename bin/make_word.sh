@@ -1,9 +1,9 @@
 #!/bin/bash
 
-pandoc -o contactbook.docx contactbook.tex || exit 1
+pandoc -o cccontact.docx cccontact.tex || exit 1
 echo ""
 echo "Done ✅"
-echo "See: contextbook.docx"
+echo "See: cccontact.docx"
 echo
 echo "WARNING: section references are not printed, and glossary entries are used with their shortcode (doc issue)!"
 exit 0

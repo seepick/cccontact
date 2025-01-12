@@ -1,4 +1,4 @@
-# Contactbook
+# Crash Course Contact
 
 A free (as in free beer, not free speech) book about __Contact Improvisation__. 
 
@@ -11,4 +11,4 @@ Over the time it grew and grew more, adding content from different sources, and 
 
 You can get a free PDF of it, or let it be printed (and shipped) at your own costs without any profit being made.
 
-Please have a look at the [official landing page](https://christophpickl.github.io/contactbook/).
+Please have a look at the [official landing page](https://seepick.github.io/cccontact/).
