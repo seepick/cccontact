@@ -272,10 +272,45 @@ This requires a lot of support (__oomph__) from our base; without it, it won't b
 The height difference will dictate whether we push into the body (for shorter people) or into the ground (for taller people, reaching over the base).
 * using hands means cheating; sometimes though needed.
   * use hands to push, give leverage support; chicken wings/legs. in any of the 3 levels (floor, lil animal, standing(hip/shoulder))
+* don't push, but lean into the ground
+  * push: center away, active, negative, effortful (chinese "li")
+  * lean: center into (earth/ground), more passive/surrender (spring quality, chinese "jing")
 * SPIRALS
   * differentiate initiation: not only fingers VS toes, but also whether FRONT vs BACK
     * moving one side forward, or the other backwards
     * might feel a bit like more about intention than actual movement
   * getting dizzy (or even nauseous):
     * solution is to slow down, to change direction, or to focus on a point (like ballet people are doing)
-    * good news: it will get better over time doing it more often
+    * good news: it will get better over time doing it more often you do it, like a muscle
+  spirals contain turns in their center
+      * a turn is "usually" in one plane only
+      * spirals can change/combine multiple planes
+      * thus: a spiral can change levels (going up/down) a turn is usually mono-directed (in horizontal plane)
+  * speed of turn: linear/static; speed of spiral: accelerated/dynamic
+  * EXERCISE bodysurf:
+    *  preparation:
+      * one partner rolls/spirals on the ground (in lanes), other holds a body part back; forcing the partner to find a new movement/path(way), solving a puzzle
+      * e.g. pulling the hand slightly (don't fight, and let partner rotate within the soft grib), torso, knee, elbow, even head
+      * partner tries to leave that pulled part back as long as possible and reach with everything else (keeping the spiral "growing" development of movements)
+    * sometimes (as flying partner is already more to the front) necessary to slow down for the base, so center stays connected, so partner can catch up; necessary to push into the ground a bit, to "hit the break"
+  * EXERCISE: palm-palm pressure, stay connected (can "slide/rotate", they are not glued, but don't grab); some call it "looping"
+    * either A) both straight or B) one straight, other crossed
+    * through limitation (glueing), we are forced to discover new moves/pathways (creativity); to inspire spirals
+* motto floorwork/bodysurf: "your downfall, my rise"
+  * use gravitational pull, lock onto it, and use leverage to be moved/lifted
+* a beginner's attitude: sliding, jumping, grabing, wanting
+* a good teacher:
+  * clear instructions, one direction, no back-forth (creates restlessness/confusion in group otherwise)
+  * gives clear signals, saying "now start" and "stop", without hesitation; with confidence
+  * has a plan, a big one (1-2 hours ahead) and a small one (1-2 minutes ahead)
+  * maintains safety, e.g. "removes parking people" from the dancefloor, points out potentially dangerous behavior
+  * finds clear words = relies on clarity in ones own mind
+    * a fuzzy/unclear mind creates unclear/fuzzy language
+  * when participants have questions about what to do, it's usually an indication for a bad teacher
+    * same as with follower-leader dances: when follower has a hiccup, it's usually the leader's fault (not being clear)
+* "good grab" vs "bad grab"
+  * with the good: first base offers an invitation/question, then, and only then, when the flyer accepts it, the base can wrap a "safety belt"
+  * bad grab: the base takes the flyer, without asking, without any reply, without consent, forcing his intention on the flyer; diminishing his autonomy/agency
+  * (good jump/bad jump: finding each other with softness mid-air VS heavy impact)
+* advantages/disadvantages of qualities/dimension:
+  * e.g. speed: fast/slow...

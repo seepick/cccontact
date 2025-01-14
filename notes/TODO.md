@@ -56,6 +56,13 @@ IDEAS
 
 LATER
 ------------------------------------------------------------------------
+* complementary disciplines/styles to CI:
+  * for deep body awareness feldenkrais
+  * for strength, control and precision pilates
+  * for floorwork/handstand some movement/animal flow/locomotion classes (at “movement amsterdam”, or “crazy monkey”)
+  * for flow and integrated, soft yet controlled bodymovemeents gaga and contemporary improvisation
+  * partner acrobatics for the fancy stuff (dangerous!)
+  * aikido, jujitsu, judo, ... for rolling and practical understanding of anatomy/bio-mechanics (joints)
 * draw more illustrations (movement, explanations; not only cover images)
 * add more drawings of vectors (for push/pull/yield... 2 objects)
 * developmental pattern
