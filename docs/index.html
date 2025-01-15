@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
     <title>Crash Course Contact</title>
-    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="shortcut icon" href="favicon.ico"/>
     <style>
         body {
             padding-top: 40px;
@@ -26,7 +26,7 @@
 			max-width: 450px;
 		}
         h1 {
-            font-size: 32pt;
+            font-size: 21pt;
             filter: drop-shadow(rgba(0,0,0,0.8) 2px 2px 3px);
         }
         #logo {
@@ -37,6 +37,38 @@
         #logoWrapper {
             padding-top: 20px;
             padding-bottom: 25px;
+        }
+        #containers {
+            margin-top: 5px;
+        }
+        .container {
+            width: 100%;
+            float: left;
+            padding: 10px;
+            margin-bottom: 10px;
+            cursor: pointer;
+            border-radius: 15px;
+            -moz-border-radius: 15px;
+            background-color: #9A8976;
+            filter: drop-shadow(rgba(0,0,0,0.1) 2px 5px 4px);
+        }
+        .container:hover {
+            background-color: #AB9985;
+            filter: drop-shadow(rgba(0,0,0,0.2) 2px 5px 4px);
+        }
+        .containerLeft {
+            float: left;
+            width: 80px;
+        }
+        .containerRight {
+            padding-top: 10px;
+            margin: 0 auto;
+        }
+        div.center {
+            text-align: center;
+        }
+        #contact {
+            font-size: 0.9em;
         }
     </style>
 </head>
@@ -50,9 +82,38 @@
     </div>
     <div id="middleWrapper">
         <div id="middleCentered">
-            <p>A free/copyleft/opensource book about <b>Contact Improvisation</b>.</p>
-            <p>It will be available as a free PDF and via an on-demand printing service, somewhere in the first quarter of 2025.</p>
-            <p>To get in direct contact with me, feel free to send an e-mail to:<br/><a href="mailto:christoph@crashcoursecontact.org">christoph@crashcoursecontact.org</a></p>
+            <div class="center">
+                <p>A free, opensource book about <b>Contact Improvisation</b>.</p>
+            </div>
+            <div id="containers">
+                <a href="https://github.com/seepick/cccontact/raw/refs/heads/main/Crash-Cousre-Contact.pdf"
+                   title="Download as PDF">
+                    <div class="container">
+                        <div class="containerLeft"><img src="icons/pdf.png" title="Download the PDF" alt="pdf"/></div>
+                        <div class="containerRight"><p><b>Download the PDF</b> for free and read it on your favorite
+                            device, or ...</p></div>
+                    </div>
+                </a>
+                <a href="https://www.lulu.com" title="Print the book">
+                    <div class="container">
+                        <div class="containerLeft"><img src="icons/book.png" alt="book"/></div>
+                        <div class="containerRight"><p>Get a <b>printed copy</b> at your own costs by an on-demand
+                            printing service (approx. 5 euro).</p></div>
+                    </div>
+                </a>
+                <a href="https://seepick.github.io/wiki/contact/" title="Go to the Wiki">
+                    <div class="container">
+                        <div class="containerLeft"><img src="icons/web.png" alt="web"/></div>
+                        <div class="containerRight"><p>Have a look at the <b>Wiki</b> where you can find lots of
+                            techniques and instructional videos.</p></div>
+                    </div>
+                </a>
+            </div>
+            <div id="contact" class="center">
+                <p>Contact me via:
+                    <a href="mailto:christoph@crashcoursecontact.org">christoph@crashcoursecontact.org</a>
+                </p>
+            </div>
         </div>
     </div>
 </div>

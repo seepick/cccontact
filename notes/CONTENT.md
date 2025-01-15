@@ -309,8 +309,47 @@ The height difference will dictate whether we push into the body (for shorter pe
   * when participants have questions about what to do, it's usually an indication for a bad teacher
     * same as with follower-leader dances: when follower has a hiccup, it's usually the leader's fault (not being clear)
 * "good grab" vs "bad grab"
+  * narrow sense: grab with hands, wrap around
+    * wider sense: wrap around with any body part, also arms/armpit (even legs); thus chicken-wing/leg is a "soft grab"
+    * intention difference: active grab is to manipulate/dominante (but also safeguard/seatbealt), passive grab is to not fall off (safety)
   * with the good: first base offers an invitation/question, then, and only then, when the flyer accepts it, the base can wrap a "safety belt"
   * bad grab: the base takes the flyer, without asking, without any reply, without consent, forcing his intention on the flyer; diminishing his autonomy/agency
   * (good jump/bad jump: finding each other with softness mid-air VS heavy impact)
 * advantages/disadvantages of qualities/dimension:
   * e.g. speed: fast/slow...
+- right attitude of exercise 1) yang/masculine/external, to succeed in it, achieve, externally appreciated, feeling good, ego, competitive 2) yin/feminine/internal, to challenge, experience, grow, push limits, fail
+- two methods of teaching: 1) yang: methodological, technical, precise, practice, analytical/disected, artificial/laboratory, internal aware/stimulus 2) yin: playful, external stimulus, application/doing/implementing, natural/organic
+- not about fun/being happy, but satisfication, feeling satisfied. meaning/purpose.
+- principle (grammar/abstract concept) vs technique (vocabulary/concrete manifestation)
+- order of skills to acquire at the beginning: breathe - relax - balance - ground - share weight - pour weight - rolling contact - lift
+- lifts = like cherry on top of a cake, like a spice/salt: don't overdo it, or it will turn bad (respect the break even point)
+- my personal teacher's dialect: slow, flowy, oppositional to oldschool CI (dynamic, explosive, risky, survival); deep, more continuous center connection, constant rolling contact
+- as advanced dance with beginners (or people with a different CI style/dialect): in order to learn/to grow/break patterns, let yourself be led, don't A) go back in your own comfort zone doing the same you already know and B) don't "enforce it" on the other; but instead follow, listen, be more passive and surrender
+- in martial arts "incest" is happening (german: "betriebsblindheit")
+  - always working with the same, within the same system; no diversity; it works because both play the game according to the very same rules, with the same principles; no surprise, no challenge, thus no real skill/growth
+  - big issue in martial arts, as it is competitive, and once fighting with someone from a different system, it won't work anymore
+    - less of an issue in (partner) dance, as it is collaborative (working together, instead against)
+    - BUT: narrow experience/skill through narrow exposure, thus not able to deal with "wide range" of what happens, with surprise
+- pouring weight
+  - obviously possible to do it onto another person, in a duo; shifting my own weight gradually into his
+  - but also solo possible: shifting the weight left/right leg
+    - have the image of the pelvis being a bowl, pouring water back-forth, slowly
+      - don't engage the leg muscles, don't push; but let gravity pull you passively
+- general exercise advice:
+  - give your partner enough time, much more than you think as an "exercise-conductor"; esp. if you give them verbal commands to be executed
+- men are too much, because they are afraid of being "not (good) enough"; women are too little, as they are afraid of "being too much"
+  - whether it's taking up space as in talking time, attention, getting needs satisfied, leading (in movement or life; being assertive/dominant), or simply giving weight (men are too heavy and stiff, women are too light and collapsed/lethargic)
+- ad movement chapter: developmental patterns, 4 qualities { yield, reach, push, pull }
+- EXERCISE with partner:
+  - round 1: command to partner to go { up, down }, learn how to relax, surrender
+  - round 2: touch a body part and say { up, down } and move from that part
+  - round 3: "catch" them mid-air and change direction; or say up a few times, touching different bodyparts
+- performance anxiety: wanting to do it well, going faster/higher/stronger
+  - BUT: achievement is more measured/judged by amount of sensitivity, an inner quality, unable to be judged/measured from the outside
+  - like with weight lifting: not the amount of kilos, but the effort muscle experienced (and what's possible within your daily state, which is always changing); it's sensed, it's a quality, but not a (measurable) quantity; not nice for the ego, for comparison... (fixed vs growth mindset)
+  - did you give your best? that's good enough... you failed back and now of course you know it better: did you act based on maximum knowledge available (besten wissen und gewissen), did you try your best? then you succeeded, because everything else is out of your control, you are not god.
+- EXERCISE: in trios, designated "main focus partner"
+  - pouring weight exercise for going up/down: partnered squad with back2back (breathe, look, move)
+  - round 1: stand in front of each other, "appropriate" distance, arms away front, palms facing to partner; fall forward, pour weight, catch-stretch; other 2 switch each time; relax the joints
+  - round 2: when contact, roll to one side (communicate it non-verbally), push into
+  - round 3: include going down/up; advanced: use single/tiny/small point of contact for going down/up; maybe switch/move/roll while going down/up 
