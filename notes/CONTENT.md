@@ -352,4 +352,146 @@ The height difference will dictate whether we push into the body (for shorter pe
   - pouring weight exercise for going up/down: partnered squad with back2back (breathe, look, move)
   - round 1: stand in front of each other, "appropriate" distance, arms away front, palms facing to partner; fall forward, pour weight, catch-stretch; other 2 switch each time; relax the joints
   - round 2: when contact, roll to one side (communicate it non-verbally), push into
-  - round 3: include going down/up; advanced: use single/tiny/small point of contact for going down/up; maybe switch/move/roll while going down/up 
+  - round 3: include going down/up; advanced: use single/tiny/small point of contact for going down/up; maybe switch/move/roll while going down/up
+* ultimate goal is "elegance". minimum effort. minimum adjustments necessary afterwards, cheat, incorrect/imprecise placements.
+* not-wanting theory:
+  * buddhism: is saying "don't attach" (to an idea/thing), i'd say they are wrong, like christianity denying the worldly, the pleasures, the deep joy (with it's potentially deep suffering)
+  * zen: is saying "be able to detach again"; story with the monk walking, given a porsche for free (buddhists/christian would say no), he drives, car has full accident (capitalist would feel bad, unable to detach), he walks again without any worry
+  * in CI: it's ok to have a plan (what to do next) BUT be able to let go of it if the moment requires (if it's not possible); the window of opportunity is usually rather short, so have to act in the moment, as with every tick of thinking about it how/what to do, time runs out and the window closes again
+    * don't force it, as it creates a disconnect, a bump
+  * daoism: observe and adapt to the flow of nature (nature in sense of spinoza, not the romantic green stuff, nothing esoteric, but universe, natural laws, like physics, the inherent order of things given by itself)
+* social aspect of walking exercise:
+  * daring wo evades first (courage competition like two cars at collision course); bit of a power-hierarchy-play; for men, not so much for women
+  * we seek close proximity to those we like/are curious about; we keep distance to the others
+  * we say hello by getting close; get too close too quickly and you will scare those cats off and away; be sensitive!
+* more professional dancers are good in being light/fast/lots of decoration/show off performance
+  * they lack substance/depth: sensitivity/grounding/slowness/center-connection
+* beginner's question: how to know whether my partner wants to be lifted?
+  * slow down, listen, be sensitive, read/interpret signals; or simply ask (afterwards)
+    * watch more subtle cues: muscle tonus, breath (joy or fear?)
+  * trust the other's ability to send clear signals, saying yes/no non-verbally
+    * learn to say yes/no as a flyer yourself, giving clear signals
+    * such as: making yourself heavy/light, grounding/flying, going down/up, moving center down/up, contracting/expanding
+* beginner's mistake: no support structure, butterfly touch only, no oomph-center-sharing-weight
+  * very effortful, as no structure to rely on (with each other), not building an architecture, not working together but separately
+  * why could that be? fear of giving weight ("am i too heavy/a burden")? of intimacy? (esp. women) lack stability within themselves? sense of balance? unable to rearrange their feet/structure to find stability? trust in their capability to take weight? projecting own inability to say no onto others, thus not daring to give themselves?
+* ad motto: shu-ha-ri
+  * shu: follow rule, beginner: 0-5 years; you don't know anything, and you know that; you are supposed to blindly follow your master, as you won't understand anyway the why; trust, have endurance
+  * ha: break rule, intermediate: 5-15 years; the longest phase, testing your own skills, dangerous, usually over-estimation; bit of understanding of the reasons behind the rules; occasionally breaking them with high risk (injury)
+  * ri: become rule, master: 15+ years; deep experiencial embodiment of all the rules and principles; many accidents/injuries; he can do the forbidden stuff/black magic, knowing that in this specific case the consequences are minimal/non-existing
+  * watch out for dunning kruger effect; most intermediate overestimate themselves
+    * there are no shortcuts, you have to go through the long and hard work which comes with the intermediate state, and not jump directly to the master state; ego-arrogance, eagerness, impatience.
+  * ad motto: "you can do whatever you want, as long as you know what you're doing"
+  * understand the rule, then you can find deliberate choice to "defuse" them
+* good jump: no impact (landing) on the partner, but used for momentum (turning, twisting) while the pressure on the partner stays constant; a connected movement, together, instead of a disconnected one (no listening possible, no moving along together thus no impact)
+* ad motto: aurelius: "life's a wrestle, not a dance"
+* ad jargon: butterfly touch
+* on the floor, to move "like a lava lamp"
+- social / how to find a partner: first (way before), 1) know yourself (quality movement, energy levels; slow/fast paced) 2) what are you looking for (someone compatible or be inspired by someone different) and then 3) look on dancefloor for something fitting
+  - 2 kind of partners: 1) enjoyable (that hot chick, not much to learn there) or 2) learning/growth (old stinky fat man); depending on how much you can take in that moment, (deliberately) choose one or the other
+  - next step: don't eye-gaze, dance in negative space; be receptive whether welcome or not (tension, breathing, looking, moving away/into)
+- lots to learn by observing people dancing by themselves; groundedness, speed
+
+* motto, mastery. "Creative thought without guided practice—structured repetition—leads to great ideas with poor execution." -- stan goldberg
+  * repetition is the path to mastery
+  * boring, but necessary to achieve
+  * first slow, perfection. then only increase speed
+  * if you dont use it, you lose it
+  * making it automatic, like walking. we also had to learn that once.
+  * in our today's western society considered as boring. no commitment, everything needs to be fun/pleasurable (hedonistic?), no hard work, no dedication; only superficial, no depth.
+  * making it into an automatism.
+  * musicians, 8 hours a day, scales, for decades
+  * sword fighters, 5000 cuts a day, every day, for decades
+  * any world champion, in sports or whatever: repetition is the key
+  * especially repetition of the basics. over and over again. yet, with quality (not only focus on quantity). don't practice imperfection. not speed either, but with focused attention.
+* mushin quality, not doing, not forcing 
+  * realizing potential
+  * sword fighting story: me cutting, not working. teacher cutting, two times, once mid-air. you want, you will not go straight. you let it happen, with a quick impulse at the beginning, and let the sword do its thing, through momentum and gravity, it will all go well, trust.
+    * add picture of karlheinz cutting, when telling the story
+  * when the window of possibility opens, to take it. when it's too late, and it closes again, don't rush it or break it open.
+  * a thin line betwen forcing and realizing potential.
+* a thin line between dominating (forcing my will upon you) and leading (offering, suggesting, support)
+* waves (in comparison to spirals)
+  * in all 3 different planes; combine them in sequence and parallel
+  * also arm movements, spiral from shoulder VS from fingers
+  * turned waves are VERY similar to spirals... open investigation
+* rolling point of contact (rpoc), also on the ground. smoothing rolling, no edges, no (sudden) bumps, no sounds. curves, round. maintaining momentum/trajectory, pathway. beginners bump, with partner and with ground, but on ground more magnified/visible.
+* ad safety culture: try not to smell like "doener kebap", it's just not nice for your partners; meaning: after cooking, bring fresh clothes
+* dancing with with someone doing something awkward, something you don't like, how to deal with it?
+  * e.g. beginners often break the pathway, most of the time just not aware of it (not necessarily lack of skills, or maybe that as well)
+    * pathway breaks, unexpected sudden changes, giving me a shock into my nervous system, very unenjoyable
+      * reason probably: many people, especially women, most likely avoid rolling over the front
+  * what to do about it?
+    * 1. try to push (force) it a bit
+    * 2. imitate/mirror your partner, so she hopefully gets aware what she is doing by experiencing it herself (non-teaching teaching, an indirect approach)
+    * 3. simply talk, say it, direct approach; after other alternatives failed; what am i observing, what do i need, what can we do about it to improve it; are you ok with it?
+    * 4. "if you can't beat them, join them"
+      * change it from an "incompatible ingredient" to the main dish; making it an exercise, create one yourself; adapt to the situation what is
+        * lemon => lemon juice; omdenken; suffering due to conflict with reality
+      * how to enjoy breaking pathways? how to dance with the limitation of only back touching?
+    * 5. extreme case: leave it.
+  * when level of intimacy doesn't feel ok => learn to set your boundaries without lowering the experience of the dance; stay connected within your comfort zone
+    * e.g. using "ballet arms", like a balloon when rolling over the front; or slide over the belly
+* the use of sounds; evolutionary: a scream = a warning; communication
+  * also: an expression of joy (weeeeeee)
+  * often deliberately used for tension release (sounding = exhale)
+* "skill is measured by principle (basics/foundation) adherence , not shiny/cool lifts (with lacking any principle adherence)"
+* grounding mistake: over-tensing, stiff legs, partner will feel lots of little impacts in his body-system, "hard steps"
+  * be strong yet soft (chinese: jing > li)
+* flow VS speed
+  * flow: principles, basics, quality, deep, profound, subtleties
+  * speed: techniques, superficial, easily impressive, shiny, simple entertainment
+* EXERCISE: rolling inner point of contact
+  * A) standing, partner touches 2 points, you have to connect them
+  * B) then from standing to moving/dancing, partner says "pause" and gives points
+  * easy: many joints in between
+  * difficult (even only intention): both points on 1 (long) bone
+    * impossible ones: neck, arm/knee pit
+  * feel free to use spirals, to go around, instead of direct lines
+  * be precise, be slow!
+* EXERCISE: floor point of contact
+  * basically the same as before, but now draw a line (like painting) on the ground
+  * don't jump points, one continuous line, be precise; have your partner point out hiccups
+* EXERCISE: Box RPoC
+  * 1) back2back, drawing a square on each other's backs
+    * be slow and precise; don't jump points, buldge out a lot
+    * esp. during shoulder bladed and lower back
+  * 2) draw an X instead (with upper/lower line going horizontally)
+    * have 3rd person give corrections and say "reverse" every now and then
+    * pay attention to be synchronized when moving; be at the same point at the same time (speed sync; listening required)
+* quotes from: William Arthur Ward 
+* RPoC (rolling point of contact)
+  * do it with the ground, with your feet, having "smart feet", soft rolling down, on the balls/front first (not heel)
+    * e.g. jump and land without a sound
+    * e.g. when going down from a lift, land first toes
+  * think of how cars were built: 50 years ago very rigid; today very soft
+    * creating more time to slow down to zero, taking away kinetic energy (lowering the impact) and transfer it into the deformation process
+    * this change in thinking (safety through rigidity) has saved unbelievable many lives since then
+  * RPoC requires wave patterns; bulging out
+    * to land softly with feet, "going down in a wave"
+  * as a base, to enable flyer to land softly
+    * 1) go down, lowering your center, bending knees
+    * 2) create a diagonal ramp, tilt the pelvis/torso sideways to slide him down
+    * 3) stay in contact once flyer touches the ground; don't disappear too quickly; give lots of oomph/support, push into him so they can slowly+softly transition/shift weight
+    * in general: slow down, give much oomph, be controlled and sensitive/listening
+    * maybe even push up, e.g. support the flyer's leg by pulling it up slightly (watch out to not bring him in risky situation by grabbing his landing gear)
+      * push up against gravitational pull, "making him light"
+* a good partner anticipates your future positions, and will be there where needed
+  * he has a 3D internal mental model (not needed to see; no visual connection needed)
+  * be there to support, "save his ass"
+  * how? extend arms, reach with wings; also push into, very strong
+  * this enables to build trust, through safety; can i rely on you; allowing to go "higher" (more risky moves)
+    * enables you to slighlty go over your limits, as your partner will (hopefully) compensate for your "going over your limits" 
+* body awareness: a mental activity; the spotlight shining; it's about the source of the light, not its target surface
+  * what people mean: unnecessary chatter of the mind; irrelevant topics being chewed on; being distract, lack of ability to focus
+* ad spiral: drawing of..
+  * 2D spiral: start from point in center, go in circles constant increase of distance r (similar yet different then concentric circles)
+  * 3D spiral: doing same, but constantly increasing z axis: going up, still r increases; looking from the side, it's like a triangle (tornado) growing
+  * 2D helix: basical a circle, not much happening
+  * 3D helix: a spring; looking from side looks like a rectangle, as r stays constant (not increasing)
+* ad anatomy: feet vs foot; stomach vs belly
+* ad physics: explain angulation
+* ad physics: https://www.geeksforgeeks.org/wave-motion/
+* ad spirals: https://functionaltrainingcyprus.com/spirals-human-movement/
+  * "When we engage in rotational movements, our body creates a spiral-like chain reaction that extends from our feet all the way up to our head."
+* ad spirals: https://dancersforum.com/what-is-a-spiral-in-modern-dancing

@@ -11,3 +11,5 @@
 * we don't divide attention, but multiply it; 100% inside, 100% partner, 100% space
   * it's like alternating current (electricity) or pseudo parallelism for CPUs through interrupts of scheduler)
 * "if you don't fail/fall once in a while, you are doing it wrong" - a research/growth attitude.
+* Once you reach a high enough level of experience and skill, many of those rules can be --intentionally-- broken
+* We fall in love with the dance, if with anything, and not with the partner.

@@ -26,7 +26,7 @@
 \usepackage{mdwlist} % list without bullet symbol \{itemize*}
 \usepackage{wrapfig} % wrap text around image
 \usepackage{csquotes} % for displayquote env
-
+\usepackage{changepage} % for adjustwidth env
 
 \usepackage{caption}
 \captionsetup[figure]{font=footnotesize,labelfont=footnotesize}
@@ -35,7 +35,6 @@
 \setcounter{secnumdepth}{0} % no numbering of sections
 
 
-% TODO newcommand exercise reference (to wiki)
 %\newlength\mystoreparindent
 %\newenvironment{leftindent}[0]{
 %\setlength{\mystoreparindent}{\the\parindent}
@@ -135,16 +134,16 @@
 
 \pagestyle{fancy}
 
-%\vfill
-%\begin{center}
-%	\textit{Moving in unity.}\\
-%	\textit{Guided by the moment.}\\
-%	\textit{In eternal spirals.}
-%\end{center}
-%\vfill
+~
 
-%\newpage
-
+\vfill
+\begin{center}
+	\textit{Moving in unity.}\\
+	\textit{In eternal spirals.}\\
+	\textit{Guided by the moment.}
+\end{center}
+\vfill
+\newpage
 \input{chapters/about}
 \input{chapters/definition}
 \input{chapters/beginning}
