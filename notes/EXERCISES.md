@@ -1,3 +1,18 @@
+TEACHING
+================================================================
+* build up: start - middle/core - end
+  * start { talk, share, sense, aware, walk, trust }
+  * middle { exercise, layered, research }
+  * end { free play, wind down, slow, recover, conclusion }
+  * ad middle part: single exercise build up:
+    * demonstrate: pick/ask for volunteer, me on him (describe/diagnose/comment), then him on me, note where's my emphasize
+    * open mic: for questions; confirm with "all clear?" -let's go (music ON)
+    * execute and guide: walk around, give feedback, intermediate stop if necessary for group feedback; guide through giving cues, layers/sequences; switch partners
+    * share: with partner, then with whole group
+
+EXERCISES
+================================================================
+
 => harvest CI Zagreb workshop => put in wiki
 
 * ad level of contact/depth
@@ -208,3 +223,31 @@ partner touches 2 points, and you connect those (decide which one is starting an
      * she can stay with one hand on my body, to have a feeling for distance and softer landing.
      * ALTERNATIVE: for those who don't want to do it, either stay being a guardian angel, or stay with the previous exercise
   * this happens when i walk forward, and my partner next to me backwards. i can see that as an invitation to do a handstand and see whether she picks it up (or not). just watch out to kick no one in the face.
+* a full 2hrs class (exercises):
+  * solo sit, shift weight from butt-cheek to other; hand on ground, scissor legs, feet ALWAYS stay on the ground; when turning right, left leg goes first (also extend with left arm; reach long)
+  * do the same lying down, relax the head
+  * do full turns now; basically a shrimp+starfish movement
+  * do full turns + in little animal up; do it in lanes, both sides (L/R; facing head opposite directions)
+  * find partner...
+  * first on same spot in room (pre-exercise): little animal positions; inner leg first over on belly, same side hand (as leg over) moves, spiral on the back legs first onto the partner
+  * in lanes: both roll (like done before), one goes in little animal, other follow and over (as before)
+  * pre-exercise: do the 90 degrees starfish exercise/turn solo on the spot (with teacher-partner)
+  * traditional bodysurf
+    * WATCH OUT to always cross/be perpendicular, and not parallel (otherwise too much weight on the partner; also risk to put weight on knees/head); either arms or legs, but never both go over at the same time
+  * "pick-up: partner exercise:
+    * base is rolling "against" (into/towards) the partner with belly or back; then "releases", so flyer is "falling"/"drops" into partner
+    * surfer/flyer relaxes head back, articulates spine, let legs softly follow by themselves
+    * don't jump! avoid quick, sharp moves as they are potentially dangerous/risky
+  * partner A rolling towards B, B putting knee under the "belt area" (belly/lower back); timing is relevant; A rolling over
+    * IMPORTANT: keep centers connected! (use chicken legs)
+    * then other partner offers "surface below"
+    * stay SLOW&CONTROLLED, RELAXED&SOFT
+  * continuation: "pick up" technique again, and immediately move "support under" (combining both skills)
+    * possibly B helps a bit by using his hand to pull A's center a bit
+  * CLASSICAL HIP LIFT:
+    * begin with hand sliding diagonally over front of partner
+      * it's like "picking up" technique on the floor: taking initiative for a lift as the base, not waiting for the flyer to initiate)
+    * get sure to offer enough "side ramps", for going on/off
+  * EXERCISE: stand, close eyes; with palm, very quickly go down, and stop very quickly and try to hover 1cm above the ground.
+
+

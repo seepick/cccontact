@@ -249,3 +249,6 @@ IN COMPARISON
   * necessary for many things
   * rolling point of contact, spiraling, moving from a specific part, ...
   * general body awareness skill
+* when talking about spirals, add a lot of drawings. e.g. spherical spiral, cyclindric siral; vortex; spiral/helix from top and side
+* incorporate Movement Notation document (kinesiology, etc.)
+* incorporate developmental pattern

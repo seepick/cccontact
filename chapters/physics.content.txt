@@ -18,3 +18,4 @@
 * oddly missing in our pantheons: the god of gravity
 * gravity allows us to measure, a steady force
     * imposes regularity on things we notice
+* 3-body problem; a swing; chaos, unpredictable (like the weather); with 2, it's possible to predict, like 0.5secs before, easy, safe, even risky stuff is safe; but with 3 (a trio) it becomes impossible

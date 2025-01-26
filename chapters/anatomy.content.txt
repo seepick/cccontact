@@ -1,5 +1,13 @@
-ABOUT: also physiology bit, functional-anatomy/bio-mechanics, and relevant injuries (pathology)
+ABOUT
+============================
+* terminologoy: muscles, bones, movement
+* also physiology, functional-anatomy/bio-mechanics
+* muscle (filament) theory
+* also relevant injuries (pathology)
+* a bit medicine/biology
 
+CONTENT
+============================
 * you have been swimming in gravity since the day you were born. every cell knows where down is. easily forgotten. your mass and the earth's mass calling to each other.
 * spherical space; mass of the body, weight, water... we're 70% water
   * body's prime sense of its own 3-dimensionality
@@ -41,3 +49,6 @@ ABOUT: also physiology bit, functional-anatomy/bio-mechanics, and relevant injur
 * pelvis movements terminology; tilting, rotating (like with simple joints flex/ext, abd/add, pro/retr, elev/depr). be very clear/deliberate and precise/technical. slowly add complexity by combining planes/movements.
   * "core" is more than just rectus abdominis (and transv/obliques). it's all what's connected to the spine. also back. also legs. latissimus, etc...
   * tensegrity model.
+* the "core" is not only the abs (4 abdominal layers of muscles), way more: all the muscles that are connected to the spine! so also the back, upper legs, etc...
+* research "muscle memory"
+* research term "homologous"
