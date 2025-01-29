@@ -29,6 +29,13 @@ RESTYLE
 
 DRAWINGS
 ------------------------------------------------------------------------
+FREEd drawings to us:
+* definition.png two salsa people dancing; use it for "comparison to dance"
+* history.png paxton&stark ... use it still in history / founding parents
+* motivation.png
+* mottos.png
+
+TODOs:
 * maybe need to redraw some chapter images (improve or totally replace)
 * movement, explanations
 * explanatory symbols (little people, roughly drawn, with arrows indicating directions, etc.)
@@ -43,3 +50,6 @@ DRAWINGS
 BACKLOG
 ====================================================================================================
 none yet
+
+
+// exclude file filters for IntelliJ: *.aux;*.glg;*.glo;*.gls;*.ist;*.log;*.out;*.synctex.gz;*.toc
