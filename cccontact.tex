@@ -1,7 +1,17 @@
-%\documentclass[11pt]{book}
-\documentclass[a5paper,11pt]{book} 
+\documentclass[a5paper,11pt]{book}
 \usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{mdwlist} % list without bullet symbol \{itemize*}
+\usepackage{wrapfig} % wrap text around image
+\usepackage{csquotes} % for displayquote env
+\usepackage{changepage} % for adjustwidth env
+\usepackage{caption}
+\captionsetup[figure]{font=footnotesize,labelfont=footnotesize}
 \usepackage{geometry}
+%\usepackage[margin=0.5cm, paperwidth=88.184mm, paperheight=113.854mm]{geometry}
+
 \geometry{
   paper=a5paper,
   top=8pt,
@@ -18,39 +28,16 @@
 % enforce PDF version 1.3 which does not have transparencies (forbidden by lulu)
 \pdfminorversion=3
 
-%\usepackage[margin=0.5cm, paperwidth=88.184mm, paperheight=113.854mm]{geometry}
-
-\usepackage{graphicx}
-\usepackage{url}
-\usepackage{hyperref}
-\usepackage{mdwlist} % list without bullet symbol \{itemize*}
-\usepackage{wrapfig} % wrap text around image
-\usepackage{csquotes} % for displayquote env
-\usepackage{changepage} % for adjustwidth env
-
-\usepackage{caption}
-\captionsetup[figure]{font=footnotesize,labelfont=footnotesize}
-
-\setcounter{tocdepth}{0} % only chapters in ToC
+\setcounter{tocdepth}{1} % only chapters in ToC
 \setcounter{secnumdepth}{0} % no numbering of sections
 
-
-%\newlength\mystoreparindent
-%\newenvironment{leftindent}[0]{
-%\setlength{\mystoreparindent}{\the\parindent}
-%\setlength{\parindent}{0pt}
-%}{
-%\setlength{\parindent}{\mystoreparindent}
-%}
-
 \usepackage{titletoc}
-%\renewcommand{\contentsname}{Chapters}
 %\dottedcontents{section}[0em]{\bfseries}{2.9em}{1pc}
 %\dottedcontents{subsection}[0em]{}{3.3em}{1pc}
 \titlecontents{chapter}
 [0.0em] %5.3
 {\vspace{0.2em}} % vertically between
-{\textbf{\thecontentslabel}~\textbf}%\thecontentslabel
+{\textbf{\thecontentslabel}~\textbf}%
 {\hspace*{-5.5em}\textbf}% unnumbered chapters
 {\titlerule*[1pc]{.}\contentspage}[\smallskip]%
 
@@ -59,12 +46,10 @@
 \pagestyle{fancy}
 %\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 %\renewcommand{\sectionmark}[1]{\markright{The Book Title}}
-
 %\fancyhf{}
 %\fancyhead[LEH,ROH]{}
 %\fancyhead[LE]{\makebox[1.5em][l]{\thepage}\textbf{\nouppercase{Kapitel \thechapter: \leftmark}}}
 %\fancyhead[RO]{\textbf{\nouppercase{\rightmark}}\makebox[1.5em][r]{\thepage}}
-
 % https://www.overleaf.com/learn/latex/Headers_and_footers
 \fancypagestyle{plain}{ %
   \fancyhf{} % remove everything
@@ -84,17 +69,19 @@
   \renewcommand{\footrulewidth}{0pt}
   }
 
+
 \newcommand{\chapterCoverImage}[1]{
     \begin{figure}[h]
         \begin{center}
-            {\pdfimageresolution=200\includegraphics[height=2.5in]{images/#1/cover}}
+            % TODO uncomment to speed up things ;)
+            %{\pdfimageresolution=200\includegraphics[height=2.5in]{images/#1/cover}}
         \end{center}\label{img:#1}
     \end{figure}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\title{Crash Course Contact}
+\title{CrashCourseContact}
 \date{\today}
 \author{Christoph Pickl}
 

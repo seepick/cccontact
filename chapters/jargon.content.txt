@@ -32,3 +32,7 @@ ad definitions:
 * when we use "lala land words" like "the energy" (and we don't refer to the physically defined term), we do so due to a lack of better word
   * "mean it seriously, but not literally"; it's like a tool
   * like a nice story (christmas) or a movie: we enjoy watching it, without confusing it to be real (like a theater, someone dies, and we don't call the police)
+* skinesphere (add to glossary): like kinesphere (from laban's "space harmony"), but the skin surrounding the body
+  * used for "grazing", a way in CI to say hello
+* ad jargon: butterfly touch
+

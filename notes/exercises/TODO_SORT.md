@@ -249,5 +249,272 @@ partner touches 2 points, and you connect those (decide which one is starting an
       * it's like "picking up" technique on the floor: taking initiative for a lift as the base, not waiting for the flyer to initiate)
     * get sure to offer enough "side ramps", for going on/off
   * EXERCISE: stand, close eyes; with palm, very quickly go down, and stop very quickly and try to hover 1cm above the ground.
+* soft landing:
+  * partner is with his ear on the ground (maybe at first hand in between, otherwise too loud); eyes closed
+  * other partner(s) walks around, try to walk silently
+  * then jumps and land soundless
+  * partner on ground says "now" when hears landing
+  * goal is that partner never has to say it
+* soft lift-off / perfect pouring pelvis:
+  * 1 little animal, closed eyes; other on-top (belly/back) and pours without the animal noticing
+  * little animal says "now" when it thinks flyer disconnected touch from ground
+* EXERCISE: little animal, other person pours his weight on the partner, animal eyes closed and says "now" if they think that flyer not touch ground anymore/take-off (be as soft as when landing after a jump, no hick-up/sharp edges)
+  * Why?! in oldschool CI, they still do it (survival mode); but it's dangerous, big impact, requires a lot of skill to "survive", safe yourself.
+* floorwork exercises. sit. tabletop. back. belly. ... each find edges. left, right. front, back. and then circle.
+* EXERCISE: tell partner "pause" and then { breathe - sense - ground }; take your time in-between the commands so your partner has some space to feel/experience
+  * try different orders of those 3 and check the difference/impact
+  * observer your partner when you tell him those things; any change visible?!
+  * "pause" already breathing happening; with any breathing, already grounding happening; only sensing might be different and solely happening on the inside (nothing visible)
+  * ground is relaxing, only downwards, breathe is expanding in all directions/inflating
+  * when the position is a strong one (effortfull), lots of tension, which makes it more difficult to ground/breathe/relax
+  * do this constantly while you move; of course an asymptotic goal, never to be reached, always aimed for
+* EXERCISE: spirals
+  * first stand (later walk around)
+  * draw circles with your finger(s); change axis/plane; change direction
+  * move axis inside the body and out again
+  * walk around and turn while drawing your circles
+  * increase complexity: inspiring spiral movements; from arms to: spine/torso, pelvis, knees, ...
+  * CONT: slow down, make movements larger
+    * draw curves (instead of spirals), almost like lines
+  * CONT: find a partner
+    * follow their curves as if they are "snail traces in space"
+    * then catch up with them (not only follow, but take over), and extend the movement, accelerating their spirals
+  * LALA land instruction: add spiral not from arms/body, but from space around (arm pits, etc.)
+  * motivates visualization skills, seeing those trails in space; like when a camera with long exposure time, lights being moved
+  * sliding on them, projecting/extrapolating them
+  * esp. in trio, take from A, and "put into" B
+  * tap into the qualities, internalize them "magically" (=without much conscious awareness/thought)
+* EXERCISE: from spirals workshop
+  * lie on back, partner takes head; first just weight, hands on ground; take lots of time, slowly
+  * when more than 45 degrees, start to move with (open eyes!)
+  * slowly stand up
+  * supportive partner enhancing spiral movements, see his pathways
+  * one hand on head, other on body
+  * 2 phases: 1) give impulses (lead/follow) 2) partner generates spirals himself (self-sufficient/independent)
+  * then: join in with your body, manipulate with the box (instead with the hands)
+  * great exercise to learn new pathways
+  * but: it's an exercise/practice, not "applied CI/dance"
+    * not egalitarian, it has a hierarchy, leader/follower; also no sharing weight, not improvised but directed
+  * knowledge about anatomy is of use, playing on the edges of possibilities
+    * not dislocating a joint, playing safe, but using joints limitations to push into the center
+      * head has highest leverage: small push, big impact
+* EXERCISE: spirals: with partner, 1 crossed arms, other straight arms
+  * touching palms (no grabing, ever!)
+  * push quite a lot, for support/stability
+  * lifting (search for center) with "y-hands", partner needs to bend wrists, push against, to lift up
+  * OPTIONAL: 3rd person (=satellite) seeing spirals in space, and suggesting them, helping duette to embody them
+    * without touch, just "draw in space", being like a conductor
+    * VARIATION: 3rd person is going to just touch a bit, stroke, draw lines on body to "inject"/extend pathways, giving impulses, actualizing potential spirals
+  * don't go on the floor
+  * don't over-commit to the hand touch (use as landing gear if needed, don't fall on your nose to maintain hand connection)
+  * after a lift, palm-pressure nice to push partner into a spiral
+  * satellite is mostly a guardian angel, esp. during lifts; seeing, training eyes
+* fun game: after a dance, come up with a movie title fitting the dance, e.g. "kampf der giganten"
+* EXERCISE bodysurf:
+  *  preparation:
+  * one partner rolls/spirals on the ground (in lanes), other holds a body part back; forcing the partner to find a new movement/path(way), solving a puzzle
+  * e.g. pulling the hand slightly (don't fight, and let partner rotate within the soft grib), torso, knee, elbow, even head
+  * partner tries to leave that pulled part back as long as possible and reach with everything else (keeping the spiral "growing" development of movements)
+  * sometimes (as flying partner is already more to the front) necessary to slow down for the base, so center stays connected, so partner can catch up; necessary to push into the ground a bit, to "hit the break"
+* EXERCISE: palm-palm pressure, stay connected (can "slide/rotate", they are not glued, but don't grab); some call it "looping"
+  * either A) both straight or B) one straight, other crossed
+  * through limitation (glueing), we are forced to discover new moves/pathways (creativity); to inspire spirals
+- EXERCISE quality practice (fly, levithian, being light):
+  - round 1: command to partner to go { up, down }, learn how to relax, surrender
+  - round 2: touch a body part and say { up, down } and move from that part
+  - round 3: "catch" them mid-air and change direction; or say up a few times, touching different bodyparts
+* grounding exercise: with partner, he says ground/tense/yield (don't collapse!) or "claw" (one hand super tensed), and "free"
+- EXERCISE: in trios, designated "main focus partner"
+  - pouring weight exercise for going up/down: partnered squad with back2back (breathe, look, move)
+  - round 1: stand in front of each other, "appropriate" distance, arms away front, palms facing to partner; fall forward, pour weight, catch-stretch; other 2 switch each time; relax the joints
+  - round 2: when contact, roll to one side (communicate it non-verbally), push into
+  - round 3: include going down/up; advanced: use single/tiny/small point of contact for going down/up; maybe switch/move/roll while going down/up
+* EXERCISE: rolling inner point of contact
+  * A) standing, partner touches 2 points, you have to connect them
+  * B) then from standing to moving/dancing, partner says "pause" and gives points
+  * easy: many joints in between
+  * difficult (even only intention): both points on 1 (long) bone
+    * impossible ones: neck, arm/knee pit
+  * feel free to use spirals, to go around, instead of direct lines
+  * be precise, be slow!
+* EXERCISE: floor point of contact
+  * basically the same as before, but now draw a line (like painting) on the ground
+  * don't jump points, one continuous line, be precise; have your partner point out hiccups
+* EXERCISE: Box RPoC
+  * 1) back2back, drawing a square on each other's backs
+    * be slow and precise; don't jump points, buldge out a lot
+    * esp. during shoulder bladed and lower back
+  * 2) draw an X instead (with upper/lower line going horizontally)
+    * have 3rd person give corrections and say "reverse" every now and then
+    * pay attention to be synchronized when moving; be at the same point at the same time (speed sync; listening required)
+* barrel
+  * lie on the side, embryo position; and roll over your back to the other side
+    * shape of limbs like a barrel (hugging)
+    * when starting and landing, be totally relaxed; keep head on the floor
+    * requires to have a lot of core strength & stability
+  * keep limbs alive, octopus quality, don't tense
+    * be even able to talk (and of course breathe) while doing it
+  * common hiccups: throw yourself, using momentum (uncontrolled!); or push into the ground
+  * more difficult: to slow down; to make the barrel smaller (narrower)
+  * partner can say "pause"
+  * even more difficult: push lumbal area into the ground, so pelvis lifts up a bit
+  * APPLICATION
+    * lil animal, over each other parallel
+    * variation: standing back2back, double squad down, one pushes hard, other in lil animal
+    * go over parallel; tada
+    * SAFETY: slide feet on the ground, don't stomp them on the ground, you might break your animal's ankles
+* body massage
+  * like done in shiatsu
+  * roll over your partner (lying on belly); approx. same weight class beneficial but not mandatory (be cautious/precise with amount of weight pouring into partner VS keep with limbs)
+
+
+
+GROUNDING
+------------------------------------------------
+* EXERCISE partnered...
+* 1: connect to partner's center only visually; sense it, imitate from afar
+  * add imitation: only pelvis movement, not arms or other things
+    * also, feel free to "freely reinterpret" a bit, and not be 100% technical correct
+      * grasp more the quality of it (also notice when cheating yourself if you cannot do it and want to feel better about yourself ;)
+* 2: remote control: first oomph (really strong!); imitate the (pelvis) movement
+  * start slow and simple, then challenge each other; do "the clock", rotate/tilt; be clear and clearly differentiate
+  * first straight lines, then "closed circles", then free/endless, lastly fast and wild (stay in the proximal zone of development)
+  * watch your other hand, is it clinching a fist? try to relax everything
+  * as the remote control: pay attention to your partner, what you do and the impact on him.
+    * e.g., rotating very fast you'll lose him; not doing just your own thing, but do it together, serve, be with the other person
+* 3: without partner: dance freely in space
+  * approach someone in negative space - engage with remote control - disengage - repeat
+  * no "trains" please: multiple people in a row; quickly detach if someone attaches on you while being attached yourself
+
+
+PELVIS
+=================================================================
+* for pelvis mobility: do monty pythons silly walk during warm up
+* EXERCISE: show pelvis to your partner. she's touching yours. exploring it.
+  * first get consent, what's ok, what isn't. go deep into the bone tissue.
+    * follow all the structures of the pelvis on all sides. get an internal visual representation of it.
+  * also, choose to completely step out of this exercise (anxiety, intimacy, fear, boundaries).
+  * use a fabric, and put it like a diaper, back-front, covering anus and genitals (if wish to do so).
+  * maybe also touch your own, then compare it with your partner's
+* EXERCISE: draw pelvis on paper
+  * 1x (1 page) the anatomically/technical correct one (as much as you can/know)
+  * 1x (another A4 paper) a creative/artistic version of your interpretation of a pelvis
+    * hand-out paper and pen, put them in a row on the edge of the room
+  * after finished drawing, show the "proper solution" and do a group sharing
+  * then do a sharing with your partner; reflect
+    * what was easy/difficult. how is it now (your understanding of pelvis)? compare with your drawing.
+  * also know: where the psoas is connected (L1-L5 and proxi-medial femur); obturator foramen; where the main artery goes through; etc.
+* EXERCISE: stand, small dance, feel femur bone
+  * explore: try to be one-legged; use muscles instead of structure; play with different positions
+  * then go down to the FLOOR:
+    * roll on the floor, feel the bone structures and pelvis skeleton (femur, trochanter major, ilium/ischium/pubis, sacrum...)
+    * research for 3 highlights, and once done, share it with same partner (as before).
+* partner exercise: have your hands around the pelvis bone of your band; stand behind them
+  * A: standing
+    * 1: ground them first by pushing them down at pelvis bone (typical grounding exercise)
+    * 2: they move, you follow their movement (only passive! no manipulation, yet)
+    * 3: occasionally send impulses yourself (receive 80%, send 20%)
+      * partner decides: go with it or resist it deliberately
+  * B: walking together
+    * follow partner at first; listen only... let him do freely.
+    * then occasionally send counter-impulses; play with saying "no" occasionally; "sumo fighter" mode
+    * then partner always has to say "YES" to it (the best way to learn new movement patterns)
+      * play with very soft impulses, very light/subtle
+  * ADDON: only give touch impulses, let go of constant touch
+  * ADDON: use your legs/pelvis/center to manipulate (instead of hands)
+* pelvis mobility EXERCISE:
+  * walk the cat walk, like models to, exaggerate pelvis swing
+  * then extremely isolate the pelvis, no movement in the shoulder
+  * then only shoulders
+  * then both
+  * then none; just regular walking; experience how easy that is
+  * CONT: walk next to a person. feel/sense their center
+    * engage and disengage with several people; play a bit
+    * then touch-contact via shoulders only, walk next to each other for a while
+    * then take a 180 degrees turn by using rolling point of contact
+* solo EXERCISE: pelvis (girdle) and upper body (shoulder girdle) separation
+  * 1: move them freely together
+  * 2: one is leading the other (switch)
+  * 3: one is moving, the other totally still (switch)
+  * put your hand on your lower belly and the other on sternum (switch hand, as we have one dominant)
+    * first close your eyes, then move both parts
+    * then walk... (find a partner)
+* start back2back, shoulder blades have contact, dance there 1 min (give weight)
+  * then change contact to pelvises, send impulses (with pelvis/from center) just as we did with hands before
+    * A: rotational push (1 side), spiral/turn
+    * B: linear push, straight; advanced: wave motion
+    * C: combine both (super advanced)
+    * + use upper legs to manipulate/"pedipulate" (good balance required)
+* pelvis clock advanced exercise: in all 3 planes
+  * build-up: do body scan, apply the clock on the floor, and with this sensitivity apply with partner (floor dance)
+
+* EXERCISE: free dance, try to have 30% of the time center2center connection (use no hands!)
+  * monitor your own pelvis, pay attention to it
+  * also be able to quickly connect to your partner's (when you "sense" it, you know where it is in space, and immediately go for it)
+* group EXERCISE: in trios, discuss definition and relations; present group-result to big group; plus discussion
+  * define "centering" (similar as did in previous workshop with grounding/yielding)
+  * also: how centering relates to grounding
+  * => see homework of preparing definitions
+* floor EXERCISE/core workout:
+  * 1: starfish-shrimp (with partner-teacher); first slow then fast
+    * watch out for mistakes: lifting limbs (always on the ground), bending limbs (have them stretched out)
+    * CONT: partner gives oomph on lower belly (below belly button)
+      * push down while partner on back, and then towards yourself (partner rolling "away side") to give a bit of a counter-push
+  * 2: starfish-ball: lie on the back, starfish position; then quickly contract to the smallest ball possible (even with head)
+    * do it very fast; also going down again; stop 1 cm before the ground, and then land softly (without any sound!)
+    * watch out to do it not too often, as your iliopsoas might hurt quickly (right after, or next day)
+    * CONT: partner touches belly, which is the signal to do it; like a heavy ball dropping onto you
+* teacher-partnered EXERCISE:
+  * build core strength and yet keeping relaxed... soft yet strong; taijiquan iron-wool metaphor
+  * doing octopus on the ground; start with 2 commands: UP (hands/feet always off floor), DOWN (hands/feet always touch ground)
+  * teachers are the helmet for the partner, so they don't get kicked!
+  * CONT: add command PAUSE (freeze for a moment; that partner decides self when to continue)
+  * CONT: after pause, add 1 point where partner moves from
+  * CONT: now add 2 points
+  * tip: observe your partner carefully and touch point where he seems to have a "gap/blind spot"
+* TRIO exercise:
+  * 1 on the floor lying, 2 are the "standing obstacles"
+  * obstacles step around, blocking the path (with firm legs)
+  * person on the floor tries to get through obstacles while using the same skill of octopus up/down before
+    * don't lift center/pelvis from ground; don't grab; leverage/hooks are ok
+  * it's not about "winning" (shows your personality)
+    * also not about challenging yourself so much; explore also the easy solutions; experience the full range
+* EXERCISE: from starfish, to shrimp, to little animal (and crawl sideways)
+  * arm+leg in direction where you want to go, go down first
+  * variation: reach into that direction with arm+leg goes into that direction (as if someone would pull you); keep it extended (no shrimp)
+  * if there is a little elephant sound here while landing, it will mean danger later on
+  * CAVE: in little animal, head always above ass. also now when "going up"/transitioning from lying position.
+* EXERCISE body surf:
+  * idea for pre-EXERCISE: do the 90 degrees starfish exercise
+  * tip for base: push into leg to start roll if partner is on you, otherwise difficult to engage only from core
+    * keep periphery always on the ground; as did before
+  * CONT: do it in trios: 1 base and 2 surfers (they run behind quickly to make it continuously)
+  * how much weight? depends on { partners size/weight/strength }; 40-80% (not nothing, rarely everything)
+    * base needs weight for keeping momentum of rolling; to maintain connection
+    * when it has to be only 10-30%, always be with your belly on your partner, to be able to take weight off into hands/feet
+  * CAVE: fast movement (=heavy weight) on floating ribs is one of the most common injuries in CI
+    * prefer to roll over pelvis and lower back; especially pelvis can carry a LOT of weight
+  * keep limbs on the ground (also nice to push a bit), as doing the barrel will not give you much/any strength
+
+ACRO YOGA expedition
+=================================================================
+* typical plane basics (in trio, with guardian angel)
+* CONT: 5 people together, 1 guardian above head again, 2 on the sides, those 2 take the arms/wings of the flyer
+* "raging acro yoga": base constantly pushes into groan
+  * flyer goes "in/over flyer", maybe be pushed sideways by base
+  * bit fighting, lots of oomph, a little bit of childlike playful wrestling
+  * CAVE: flyer legs not extended (weight goes forward and base has no grip anymore)
+    * base not fully extend either (backflip danger)
+  * after some time, try to push flyer into a spiral, then go:
+    * A) into body surf or B) into little animal, and immediately initial position again
+
+
+
+* warm up exercise: "triangulation (triangularity?) of dance"
+  * to feel and fill the space (with body+presence)
+  * negative (air) vs positive (body, matter) space
+  * start to meet other bodies, "grazing"
+
+
 
 
