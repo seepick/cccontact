@@ -4,8 +4,10 @@ FINALIZATION
 --------------------------------------------------
 * glossary: scan whole document for (fancy) terms, whether added
 * machine proof-reading: intellij, language tool
-* human proof-reading: let content be checked (by CI practitioners)
+  * use some more sophisticated AI tool (DeepL)
+* proof-reading: let content be checked (by CI practitioners)
   * provide them a template of what i expect (see /resources/feedback/_feedback_form.txt)
+  * whom: jonas? pau? anouk?
 
 RELEASE
 --------------------------------------------------

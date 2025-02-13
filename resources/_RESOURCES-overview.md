@@ -9,7 +9,7 @@ WORKSHOPS
 INTERVIEWS
 ====================================================================================================
 * [ ] anouk - beginner
-* [ ] paris - grounding
+* [x] paris - grounding
 * [x] tom - general
 * [x] pau - good dance
 
@@ -51,6 +51,8 @@ VIDEOS
 * [ ] Classics 1972: https://www.youtube.com/watch?v=9FeSDsmIeHA
 * [ ] Fall After Newton: https://www.youtube.com/watch?v=k768K_OTePM
 * [ ] contact quarterly channel: https://www.youtube.com/@contactquarterly
+* plenty on instagram: https://martinkeogh.com
+* [ ] history twin cities: https://www.youtube.com/watch?v=Vv7CjZxjfTU
 
 OTHER
 ====================================================================================================

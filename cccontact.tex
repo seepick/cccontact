@@ -3,6 +3,7 @@
 \usepackage{graphicx}
 \usepackage{url}
 \usepackage{hyperref}
+\usepackage{shorttoc}
 \usepackage{mdwlist} % list without bullet symbol \{itemize*}
 \usepackage{wrapfig} % wrap text around image
 \usepackage{csquotes} % for displayquote env
@@ -107,21 +108,25 @@
 	\vspace*{\fill}
 
 	\fontsize{9}{0}\selectfont
-	{\sffamily 1st Edition - \today}
+	{\sffamily 2nd Edition - \today}
 \end{center}
 \end{titlepage}
 
 \pagestyle{empty}
 
-
-\setcounter{tocdepth}{0} % only chapters in ToC
+\cleardoublepage
+\phantomsection
+\pdfbookmark[1]{Contents}{toc}
+\shorttoc{Contents}{0} % show chapters
+\cleardoublepage
+\renewcommand*\contentsname{Overview}
+\setcounter{tocdepth}{1} % show sections
 \tableofcontents
 
-
 \clearpage
-\ifodd\value{page}\else
-  \thispagestyle{empty}
-\fi
+%\ifodd\value{page}\else
+%  \thispagestyle{empty}
+%\fi
 
 \pagestyle{fancy}
 
@@ -131,7 +136,7 @@
 \begin{center}
 	\textit{Moving in unity.}\\
 	\textit{In eternal spirals.}\\
-	\textit{Guided by the moment.}
+	\textit{Following the moment.}
 \end{center}
 \vfill
 \newpage

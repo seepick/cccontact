@@ -34,5 +34,5 @@ ad definitions:
   * like a nice story (christmas) or a movie: we enjoy watching it, without confusing it to be real (like a theater, someone dies, and we don't call the police)
 * skinesphere (add to glossary): like kinesphere (from laban's "space harmony"), but the skin surrounding the body
   * used for "grazing", a way in CI to say hello
-* ad jargon: butterfly touch
-
+* butterfly touch
+* starfish: specific exercise; like shrimp (and barrel) is an exercise

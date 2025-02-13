@@ -1,8 +1,8 @@
 ABOUT
 ============================
-* terminologoy: muscles, bones, movement
-* also physiology, functional-anatomy/bio-mechanics
-* muscle (filament) theory
+* terminology/anatomy: muscles, bones, movement
+* physiology, functional-anatomy/bio-mechanics
+* muscle (filament) theory (myosin-actin); ATP
 * also relevant injuries (pathology)
 * a bit medicine/biology
 
@@ -87,7 +87,16 @@ PELVIS
     * especially functional anatomy (movements, biomechanics) for body workers/dancers/sports/teachers/etc
     * otherwise, you will stay semi-professional at maximum...
 
-
-
-
-
+SENSATION & PERCEPTION
+* see crash course: https://www.youtube.com/watch?v=unWnZvXJH2o
+    * sensation: bottom-up process by which our senses, like vision/hearing/smell, receive and relay outside stimuli (conduction)
+    * perception: the top-down way our brains organize and interpret that information and put it into context
+    * they are connected but separate!
+    * signal detection theory: how people can detect weak stimuli (threshold)
+    * sensory adaption: like habituation (not feeling underwear)
+    * weber's law: we perceive differences on a logarithmic, not linear scale
+        * 1 kg of pressure, we feel 0.2 kg difference; but with 100 kg pressure, we can only feel 5 kg difference (not 0.2 kg anymore)
+        * not an amount of change, but a percentage, that matters
+    * if we want to dance with maximum attentiveness, we need to be very light (yet center connected, to convey information from the whole body; finding the sweetspot there)
+    * for peripheral vision, we use our rods (also gray scale, at night); cones only for high lid conditions and color
+* homunkulus
