@@ -95,3 +95,44 @@
   * the path to success is plastered with failure (graphic: two lines; vs tree like structure)
   * success is not the absence of failure, but its presence
   * "the master has failed more often than the student even has tried"
+* the head-roll technique, works better when being bold ;)
+* when things dont go according to the plan, not as expected => you are on the right path, great, you improvise/surprise yourself (as long as it is safe&sane)
+* as a base, when lifting, always stay alive/dynamic/move
+  * constantly adapt to your flyer, support/help him; e.g. to keep balance, to go down; work with him, pay attention, "be in your head"
+  * keep your legs moving, take steps, keep moving the dance
+* beginners use hands&arms
+  * advanced connect via the box/torso/center
+  * even more advanced use the legs/feet to pedipulate (vs manipulate; manus = hand, pedes = foot)
+* mastery: going fast/wild/crazy, while maintaining the quality/basics/principles
+* motto: "you can always be too fast, but never too slow"
+* ad social: it's like in zouk: take veeeery long time to get to know a new partner
+  * share a very slow dance first, stay stationary and feel (breath)
+  * check the basic principles, feel, create awareness for each other; "lala land connection", get attuned (takes some time)
+  * no moving/travelling at first, no techniques/lifts for a very long time
+    * only when enough trust is established, A) technical (you are grounded, firm support, don't do weird stuff, pay attention, don't go beyond your level/overestimate your skills, listen to me/doing it together, proper body shapes/good gorilla) and B) personally (your personality matches mine, we find each other, like each other, allow each other in; building in-to-me-see)
+* saying "no" to lift invites, feels like taking away candy/lolly from a kid during halloween; strangely pleasurable, gives an evil smile, the disappointment in the other caused, the empowerment feeling it gives to oneself ;)
+* small dance, not only standing alone, but also during partner dance, even while lifting
+  * need to be suuuper slow to really feel it
+  * just like in life in general; tantra wisdom/motto: "to go deep, you need to go slow"
+  * like in mindfulness, the glass with dirt particles in it: "to get clarity, we need stilness"
+* the anti-rules: (ad skill/principles/social/safety)
+  * pouring weight: don't jump on/off your partner; the change of pressure in contact should be gradual (no sharp/quick changes)
+  * rolling point of contact (with considerable sharing weight, no butterfly touch): maintain surface contact in a continuous, uninterrupted line (no sliding/rubbing, especially no caressing); face is sensitive
+  * we usually don't have any eye contact; maybe while initiating a quick smile and confirm "yes, i mean you" to avoid misunderstandings "do you mean me?"
+  * we usually start back2back and don't dance frontal; we move with physics, we celebrate the dance; we don't fall in love with the partner, but see him as a physical object in space (just like the floor or a wall, but moving)
+  * we walk (and land) without making any sound (little elephants); smooth feet, relaxed; zero impact
+  * when sensitive body areas (genitals, breasts, butts) unintentionally were touched, we don't make a big thing out of it; not saying, not changing
+  * we primarily use our torso (box = everything between shoulders and hips), very little to never the hands; we definitely don't grab or interlock or hold onto feet, but we use hooks for leverage (chicken wings/legs)
+  * we wear casual comfortable clothes; not too much skin exposed (prevents sliding on the floor), we are barefoot (more grip), stretchy clothes (mobility; no jeans), and nothing firm/hard materials that stick out (buttons; painful when lifting); no accessoirs or jewlery of any kind
+  * we stay silent as much as possible; no casual talking; obviously we don't use your phone
+* the antirules insights: (some of it to mastery)
+  * it gives more freedom, peace of mind, as no rules dictate doing it right/wrong; less anxiety/stress/tension/expectations
+  * regulate the wildness; also the psycho-social impact will drain energy quickly
+  * can the rules be broken in a more subtle way, without going into wild/crazy mode? stay gentle and slow, still break them?
+  * if CI can be still identified as such, even when breaking the rules, that must mean the rules are not the essence of CI; what's the essence? gentle, rolling, continuation, using momentum... thus, a clear separation between (local) rules/principles and (global) essence/core
+  * new-school CI is boring: only just slow, gentle, fluid, correct, predictable... it's too stuff, snobby, elitaire. the crazy wilderness adds some liveliness, surprises to it.
+  * wild style must be only the advanced level, after having established a firm base in the (calm, round, slow, gentle) basics. its a mandatory sequence, and the foundation must not be skipped (not going into wild immediately). we need to be able to go back to the (slow) basics when needed (safety, exhaustion).
+  * breaking the rules consciously adds a surprise moment, making us awake, shaking our expectations, and can be amazingly fun. we are advanced, we know when to step back into it again to also make it safe (support your partner, anticipate, be present).
+  * little to gain (in terms of research/exploration) by simply going into a completely different dance/movement style. how to gain then? by staying a fair amount within CI, and every now and then break out of it.
+  * it increases awareness, due to deliberately break a rule every now and then. resist the impulse to follow the rule and let an additional "command layer" dictate the opposite. internally scanning for what's right, and then do something else consciously instead. an intentional/deliberate rule break is not a mistake, only an unintentional is a mistake.
+* ad safety: when practicing the crazy wild shit. fast, jumps, (shoulder) lifts: regulate your adrenaline/eagerness. keep pauses between attempts to "refresh", staying focused. start slowly, increase slowly (like weight lifting), to prevent injury. be honest, dont over estimate yourself/your skill. ask yourself: is it worth it? injury, pain, blocked for weeks/months, surgery, death? (how many people died from CI?).

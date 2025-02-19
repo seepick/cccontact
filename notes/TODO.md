@@ -31,6 +31,7 @@ ROADMAP
 * youtube [timeboxed] some CI videos
 * rename "dancers" to "practictioners"; rename "share a dance" to "move with" (?)
 * ad movement chapter: developmental movement patterns, release technique, and floorwork
+* jam guidelines https://contactquarterly.com/contact-improvisation/newsletter/view/jam-guidelines#$
 
 RESTYLE
 ------------------------------------------------------------------------

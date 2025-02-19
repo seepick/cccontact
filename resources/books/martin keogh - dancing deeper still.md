@@ -197,7 +197,13 @@ TEACHERS / CLASSES
 * rewarding for a teacher:
   * seeing students capacity for sensation/risk increasing
   * move less with an ideal, but more with the partner
-
+* different teaching styles; dance background usually more imagistic (metaphorical language), rather anatomical
+  * e.g. pearls running down the spine; soap bubbles making joints slippery
+  * images can provide a bridge into (complex) sensation, afferent (not only passively receiving, but also in our locomotion;; actively controlling the body, efferent)
+* international teachers spread different nuances/styles/approaches, healthy for the system
+  * like farmers, mixing strains, more genetic diversity, more endurance/strength
+  * teachers throwing in wild strain into what has been locally cultivated (and of course vice versa as well)
+  * 
 
 SKILL / TECHNICAL
 ========================================================================================================================
@@ -216,6 +222,11 @@ UNSORTED
     * slow down internally, reach a state where you can kinesthetically experience the movements with the partner
 * ad safety: as a professional dancer, better get a good health insurance, as CI is not safe
 * how to break habitual patterns/ways, how we initiate physical contact during CI: teaching your own style to your partner
-  * then engage with your partner with his own style; a good pattern-breaker 
+  * then engage with your partner with his own style; a good pattern-breaker
+* ad motivation: helps to establish trust to others/strangers; profound effect on someone's life, and how we relate to others
+  * trusting oneself: giving one's weight, setting boundaries; trusting others: be there when i need you? respect my boundaries?
+* ad definition: CI is difficult to define/describe; there is no single definition
+  * it has no steps, no repetition; it is improvised, there is "kind of" always something new
+  * it is wild and mysterious, like fire; keep digging to see what more is possible
 
-TODO page 38, top
+TODO page 43
