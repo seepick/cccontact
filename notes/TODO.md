@@ -32,12 +32,13 @@ ROADMAP
 * rename "dancers" to "practictioners"; rename "share a dance" to "move with" (?)
 * ad movement chapter: developmental movement patterns, release technique, and floorwork
 * jam guidelines https://contactquarterly.com/contact-improvisation/newsletter/view/jam-guidelines#$
+* wikipedia pages in different languages
 
 RESTYLE
 ------------------------------------------------------------------------
 * !!! incorporate feedback v1; review the whole book again
 * when declaring as something bad/wrong, always also add why, AND what's good instead, how to do it better
-* use the word "contacter"
+* use the word contacter/contactor, CI practitioner, contact improviser
 
 DRAWINGS
 ------------------------------------------------------------------------
@@ -61,6 +62,9 @@ TODOs:
 
 BACKLOG
 ====================================================================================================
+* take n (like 10?) articles from CQ; maintain a list of what's incorporated yet
+  * https://contactquarterly.com/contact-improvisation/newsletter/index.php#view=what-is-a-ci-purist
+  * https://contactquarterly.com/cq/unbound/index.php#view=flashback-interview-with-nancy-stark-smith
 * ? appendix in ToC? (glossary, list of figures)
 * harvest CI Zagreb workshop GDoc for exercises
 * make a video-presentation "history of CI", just like gert did about zouk

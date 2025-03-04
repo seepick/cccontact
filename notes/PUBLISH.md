@@ -2,6 +2,7 @@ CHECKLIST
 ====================================================================================================
 FINALIZATION
 --------------------------------------------------
+* create a epub (e-reader) document
 * glossary: scan whole document for (fancy) terms, whether added
 * machine proof-reading: intellij, language tool
   * use some more sophisticated AI tool (DeepL)

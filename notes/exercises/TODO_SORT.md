@@ -295,3 +295,5 @@ MISC
   * C) change hands with your whole body (first back2back, then more free)
     * every now and then give strong signals how to move, make him desorientated
     * help figure out new pathways (a bit like tantric dance)
+* let flyer go down like they do in tango; surrender like in tantra; like judo throw, her lower back on your upper leg (sliding down); both are wrapped with arms around, looking opposite direction  
+  * what to do there 1) simply go up again standing 2) turn into lil animal 3) flyer legs up, around back into classical hip lift

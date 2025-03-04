@@ -136,3 +136,143 @@
   * little to gain (in terms of research/exploration) by simply going into a completely different dance/movement style. how to gain then? by staying a fair amount within CI, and every now and then break out of it.
   * it increases awareness, due to deliberately break a rule every now and then. resist the impulse to follow the rule and let an additional "command layer" dictate the opposite. internally scanning for what's right, and then do something else consciously instead. an intentional/deliberate rule break is not a mistake, only an unintentional is a mistake.
 * ad safety: when practicing the crazy wild shit. fast, jumps, (shoulder) lifts: regulate your adrenaline/eagerness. keep pauses between attempts to "refresh", staying focused. start slowly, increase slowly (like weight lifting), to prevent injury. be honest, dont over estimate yourself/your skill. ask yourself: is it worth it? injury, pain, blocked for weeks/months, surgery, death? (how many people died from CI?).
+* ad social: trust with your partner
+  * trust requires connection
+    * if you wanna go wild&crazy with someone (lifts, acrobatics), I first need to feel your groundedness, your center, us being connected
+  * trust by hearing me; my needs, me saying "no"
+    * only if you hear and respect my "no", i might give you my "yes"; like a precious baby i trust you; are you reliable? can i lie on you?
+* when more advanced: center connection will be lighter
+  * a too heavy center-connection makes stiff and rigid (not adaptable/flexible)
+  * but for the beginning, better to be stiff+grounded, instead of unstabled+relaxed
+* much can be inferred by using sex as an analogy (our behavior)
+  * go slow, feeling is actually possible; going to fast, you don't know what's happening (can't sense it, yourself and the other)
+* a scientist's attitude during practicing/researching/labbing (exercises in classes/workshops)
+  * not trying to succeed, but to explore; to gain more insights (like in weight lifting: not reps, but stimuli matters)
+  * 98% will be failure, 2% will be astonishing new findings
+  * trying to succeed (keeping it safe, trying to be "good", prevent failing) will block you in your progress/exploration
+* hooks:
+  * always be able to do it without; then you have choice, but don't rely on it
+  * same with grabbing: as an advanced, you can use it, because you are able to do it without; but don't do it as a beginner, as you are not yet able to do it without
+  * it must be a choice, not a necessity
+  * hooks are often a way to cheat, because of lack of skill (not centered/balanced)
+  * common active hooking spots: pelvis, armpit, neck
+* push firmly into partner's structure/architecture: to take away weight for your base
+  * like a bent knee/pelvis... straight down into the ground
+* ad about: my approach, very "masculine" to movement
+  * masculine:
+    * technical, pragmatic, function(al), progress, getting etter/mastery, winning, result-oriented, goal
+    * effort, materialistic, literal, efficient/effective
+    * focused/laser beam, straight line, edge, separated, analyzed/dissected
+    * contained/controlled, research/exploration, serious, dedication, discipline
+  * feminine:
+    * fun, (en-)joy, pleasure, the path is the goal, process-oriented
+    * aesthetics, pretty, beauty, together, community, bonding, social
+    * uncontrolled, party, fast, wild, extrovert, energetic, chaos, spread, around
+    * soul, heart, emotions, "energies", circular, round, holistic
+* ad bodysurf: safe yourself,when flyer too close to knees or head -> lift head/arms or legs to adjust their position
+* Somatics (wikiepdia): is a field within bodywork and movement studies which emphasizes internal physical perception and experience. The term is used in movement therapy to signify approaches based on the soma, or "the body as perceived from within", including Skinner
+* ad grounding:
+  * for good practice, always keep both feet fully on the ground with contact, slide over the ground, even heels and toes. advantage: if sudden shift of weight happens (from partner or yourself) then no bump (little elephant) and immediately stable. if would take big lifting step, and then weight, would "drop/fall" with impact (unstable!. slowly transition to hover over the ground. maintain constantly rather bent knees, to lower CoM, and also to be more adaptable/flexible (no stiff stick legs).
+  * it is a principle, but actually a movement quality (mention in book)
+* ad about: it's partly a community thing, as it's a result of my notes what has been shared in classes/workshop by other people. from the people, for the people. many of my lessons learned are "passing throughs" from my teachers. thus, i cannot own it, i shall not sell it for profit, but only give back what has been inspired (not really "taken", same as any information, whether an idea or a hollywood movie, can't be stolen, just copied/multiplied).
+* ad jargon: new animal: crab (opposite of octopus; more edgy/stacciato with more muscle tension)
+* in somatic approaches based on BMC (Body-Mind Centering),... human embryonic development
+* ad jargon: resembles yoga asanas (taijiquan postures); good/bad gorilla like up/down dog (Urdhva/Adho Mukha Svanasana)
+* mastery: never stop unintentionally (when lifting, etc.; gorilla, little animal; no time for the other to crawl onto us but just "slide")
+  * if there is a pause/stillness/silence, it is a deliberate spice, but not a technical necessity, not breaking the flow/continuation
+* floorwork most underestimated skill.
+  * (shoulder)lifts are comparatively easy, and all the other apparently fancy tricks.
+  * hiccups in lifts show themselves much easier, than in floorwork; thus our judgment is distorted.
+  * as so often, we usually go into a mode of "fooling around" rather than doing something that has anything to do with CI
+  * use the principles to evaluate: grounding, sharing weight, rolling point of contact, pathway continuation.
+  * in floorwork, the (center) connection is lost most of the time, thus no sharing weight.
+  * we often slide over each others body, trying to reconnect in a clumsy way, thus no rolling point of contact.
+  * it needs more locking centers to each other, like glued.
+  * it needs more easygoingness with intimacy, being very very close, cuddly.
+  * it needs more pushing into the ground, not only taking weight off your partner, giving air, but also "moving into" quicker/on time.
+  * it needs more daring to give weight, to maintain the connection ("am i too much?"), but also take away weight in the right time, on the right spot, e.g., when the partner needs to get up (e.g. into little animal)
+* beginners are not "boring to dance with" as an advanced.
+  * the to contrary: they can be amazingly great to dance with. new inspiration. not blinded to the system.
+  * BUT: they often overestimate their skill. beginners who think they are intermediate are uncomfortable/annoying to dance with, and sometimes even dangerous.
+  * it's ok to be bad at certain skills, its not ok to not be willing to acknowledge it and believe the opposite
+  * beginner's mind, in such way, to always consider one can still improve, even though one has already built an identity around it
+    * training to relax for 15 years, and then being told you are not relaxed, hurts the ego; at the same time, it allows to (finally) grow truly into mastery
+    * the desire to feel good, to be happy, no matter the costs, prevents us from true growth and development, and forces us to stay in a beginner's skill level
+* fly bird land cat workshop description:
+  * One of the best compliments a contact dancer can receive is – “you are light as a feather”, another good indication to one technique is how we land on the floor, both these partners (the human one and the floor beneath our feet) teaches us how to refine our movement and dance. In this Intensive Contact Improvisation workshop we will practice and investigate how to be light as a feather and to land quietly on the floor like a cat, we will learn to use our entire body – muscles, bones and joints in order to achieve this not so easy task.
+  * By understanding different pathways in space and inside the body one can learn to refine his/her movement capabilities. Seeing spirals pathways as a way up to the air and down to the ground, realizing that one can influence the “heaviness” quality of his/her body and change it in order to be grounded or to be lifted.
+  * In this workshop we will experience and explore how we can override our fear reactions into a free form, dancing and extending it into flying. By the end of the workshop we will see how we will be flying on a partner in a safe way, and how to feel secure and to ride this flow even in a less secure situations, which in the past might have brought our reflexes and reactions to burst out.
+* ad definition:
+  * to capture its essence; without it, it's not it anymore (a knife without its blade); it can't do what it is meant to do by its very nature
+  * to set it apart (separate); solely based on its definition it should be recognized
+    * "a movement practice" includes too much; "partner dance" (maybe less, yet missing its essence); what makes it it, and what can be cut off without losing its "itness"
+  * steve paxton once said: "Tennis is too big, imagine ping-pong; then make the net lower, the ball and racket smaller; then move closer to your opponent. Finally, dispense with net, table, racket, ball, competitiveness. What you have left is a close play between bodies, giving and taking weight."
+  * it is: art-sport, a social dance, animal play, a physical dialogue
+* ad mastery: advanced, seasoned performers/practitioners
+* It’s rumored Steve Paxton created the small dance when he traveled to the dance studio on the subway. His feet rooted to the spot and his hand anchored to a strap suspended from the ceiling. As the subway carriage sways about, his pelvis and spine sway gently … hence the small dance.
+* ad definition, Encyclopedia of Dance says: "primarily a duet form (the most basic unit of social interaction) that emphasizes the qualities of mutual trust and interdependence by requiring ongoing contact between the two participants"
+* small dance is the micro movement of the body's balancing, adjusting, sensing and responding to gravity
+* CI is like: place for shared experience and meaningful interactions; reliable source of joy; laboratory for communication; venue for self-exploration; spiritual path; form of social dance; sexual interaction; conversation; form of child-like play; type of healing; immersion into sensation; interplay of touch, the body's reflexes, and the floor [https://contactquarterly.com/cq/unbound/index.php#view=cqwebtext-daniel-halkin]
+  * yet, for everyone it's different. if sharing afterwards how it was, people have so much different experiences
+  * experiences influenced by: temperament, experiences, physically/emotionally/spiritually state, environment (people around us; in contact with)
+  * acknowledge the subjectivity of our perceptions of reality; "listen in order to understand, not in order to reply" (be curious); we don't have to agree, but we have to acknowledge
+* CI = "black sheep of the dance world"
+* ad dresscode: pyjamas ;)
+* ad about book: its USP, different from other books: more practical, technical, clear, simple, down to earth; less poetic/artistic/imaginary; nothing to motivate or dream, but something to understand and structure; to keep the balance, as the artistic dance world seems to be too much yin, thus to nourish the yang
+* ad definition:
+  * researching the language of the skin
+  * it was characteristic for the first generation of CI-dancers to decide not to define contact improvisation, and not to set up a certification teacher training
+  * it can look like a gentle wrestling
+  * meditative mode of heightened perception, and nonverbal communication
+* ad small dance, nancy says: "It was basically standing still and releasing tension and turning your attention to notice the small reflexive activity that the body makes to keep itself balanced and not fall over. You’re not doing it, but you’re noticing what it’s doing."
+  * concept of noticing interior movement, foundational for contact improvisation.
+* safety: know how to roll; front/back/side, handstand; invent, be creative
+* CI has no formal educational path; no central authority; and on purpose resisting definition
+  * is it even a dance?
+  * how is it different from: Body-Mind Centering, or yoga, or other partnering forms, or release technique?
+  * clear feel for the basic premise, develop a few safety skills, and get your reflexes primed and ready, then you’re off
+  * improvisation is an essential part of the work—not just to learn steps or moves and put them together, but to meet, make, discover, and be curious.
+* CI is fun, is serious, is playful, is disciplined, paying attention for long time, stay focused/mindfulness training/meditation practice (aware of point of contact)
+  * wandering minds -> losing point of contact (is this what people refer to as "in their heads"?!)
+  * and as in mindfulness training: You’re somewhere else. You realize, acknowledge it, gently. And then you come back.
+* CI is working in spherical, not frontal space; difficult for performances, like in theaters were audience sees from only one side
+* ad about me: not a dancer; i think of it as a beneficial thing, fresh wind into a dusted room; new perspectives; more approachable for the "common people" (not only exclusive to the formally trained dancers); also a good balance for the mostly feminine approach to CI via dance
+  * also: i strongly believe CI, in order to maximize its reach, it should be free from any political or social or any other related topics; it's a movement practice, and as such it has the possibility to unite people, bring them together; once we pick i side, we also instantly leave out the other side, becoming more exclusive, isolated, and separating this world even more
+* improvisation: "are we training to get better at doing what our partner expects us to do or at being ready to be surprised and respond to something we didn’t expect?"
+* essence of CI (according to earthdance):
+  * Contact—connection, touch, caring, right relationship
+  * Improvisation—chaos, emergence, anarchy, experimentation, play, creativity; a tolerance and even an affection for uncertainty and paradox
+  * Awareness—contemplation, listening, silence, feedback, focus, communication
+  * Resilient Balance—a vital holism that comes from working with polarities: yielding and supporting, following and leading, listening and acting, giving and receiving
+* what they call flow, i call using momentum; a pure energy efficient way of moving, to use falling force and continuing it (instead of breaking it; the (movement) pattern); 
+* ad social; engaging in a dance; joining an existing duo, or the usual inviting a single person: even though when i feel initially a no, when you are careful enough, i might change my no into a yes
+  * go slowly; be careful; make me feel seen, thus make me feel safe; listen; don't be pushy, don't take, but offer/give; present yourself, give space, and let come to you; acting out of love is an act of giving, thinking "what can i do for you", and not selfishly wanting to take something from me
+  * story: man wants woman, goes to her place, knocks at the door; "who is it", and he replies "it's me", she sends him away, not enough space; ... time passes, he comes again, knocks; she asks "who is it" and now he answers "it's you" and she opens the door.
+* ad definition: sport is too competitive, too much ego feeding. dance is too much about aesthetics/looking good, too much ego feeding. mindful movements, the intention inwards, to sense more (not achieve more, going faster/higher/stronger, more complex&impressive techniques), to slow down, to connect. 
+* ad standing/small dance; steve says (from video "fall after newton"): "Standing still is not actually "still". Balancing on two legs deomsntrates ... dancer's body that one moves with gravity, always. Observing the const dancer's body that one moves with gravity, always. Observing the constant adjustments the body makes to keep from falling calms the whole being. It is a medita-tion. It is watching the reflexes at work, knowing they are subtle and dependable not just emergency measures.
+  Standing became one of our disciplines, keeping the mind attentive to the body's present moment. This simple practice was preparation for the complex interactions that would arise with a partner. "
+* ad pauses:
+  * good pause: deliberate decision; to create space, to let something new/fresh emerge; a stylistic element; maybe also good to remind your partner (if needed) to listen more carefully; to recenter
+  * bad pause: when being a base, to execute a steril technique as practiced in a laboratory; instead, keep on moving, stepping, rolling, doing; never end, like the infinity of a spiral
+* ad definition:
+  * shared leadership: both are leading together (not like that it's "leaderless"); a collaboration
+  * a bit like an ideal marriage: 3 things i take responsibility over: myself, my partner, and the relationship between of us (and hopefully my partner is doing the same)
+* ad physics: newtonian physics missing the human aspect; too objective, and nothing about how humans subjectively experience it (including the psychological realm: thoughts, feelings); how we perceive and relate to it
+* when lifting, the principle of "center connection" gets a new meaning, a super important one: keep your lifted partner very close to your main axis, the vertical one going into the ground; your center line. thus, bone structure carries the weight, not muscle tension (too effortful).
+* ad "tension masks/covers sensation": can't feel gravity, can't tell if you are falling (and then it's too late)
+  * too loose is also not good
+  * don't be too tight, don't be committed to a shape
+  * be in movement, and organize "around the support"; relax, and work with it
+* in CI, the weight we give is support structure; we kind-a rely on each other (opposed to other partner dance forms)
+* trust is not blind faith, mere guessing; train your senses (lots of practice), and feel that it (the support) is there
+* touch is crucial; our motivation; good for health (see babies and touch)
+  * in our society, touch is only available with sexuality or violence
+* ad definition: improvised duet form. sometimes also more than 2. and their (combined) relationship to the physical laws (gravity, centrifugal force, momentum, friction, inertia) governing their motion.
+* ad complementary practices to do: acro yoga can help for the technical stuff, flying/basing, balance, alignment. although it lacks dynamics, movement, some experience with it can be helpful (and can be well integrated in CI).
+* ad definition: steve paxton didn't want to give a definition at the early beginning on; maybe some language, some words, but no clear definition, so people are free to describe what it was (for them); as many definitions as teachers
+* "in order to do it well, you have to be listening very carefully to your partner's body" - Mike Varga
+* most of CI's existence, there was no music; rarely maybe live musicians
+  * the rhythm and musicality of the dialog between the two bodies is complex/particular, needs to be focused on for a long time; rhythm of falling/gravity
+  * with strong-beat music, humans have a habit to move to that beat; it becomes the primary impulse (person becomes secondary); that's why ambient music is ok-ish (it will still "color the atmosphere" with its mood; no preferred blank canvas anymore we are free to paint whatever)
+  * in CI, partner remains primary partner (source of impulse); and maybe gravity, but not music
+* your attention needs to move faster than the bodies, otherwise you will miss out, it will hit you, accident and injury possible; thus, move the bodies so slowly, that your capacity for attention can keep up

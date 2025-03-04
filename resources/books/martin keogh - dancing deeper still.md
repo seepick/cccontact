@@ -228,5 +228,58 @@ UNSORTED
 * ad definition: CI is difficult to define/describe; there is no single definition
   * it has no steps, no repetition; it is improvised, there is "kind of" always something new
   * it is wild and mysterious, like fire; keep digging to see what more is possible
-
-TODO page 43
+* images don't work for everybody; skin is porous to other input
+  * teachers use different lenses/styles of language: anatomy, psychology of relationship, kinesthetic, play/games (physics, structured, flowy, strict, verbal, imitating, ...)
+  * try yourself different teachers, to see what style is yours
+  * instead of vertebrae, talk about string of pearls; instead discs, use slimy oysters as an image
+  * e.g. spain more imgaistic; images generate visceral response, leading to quickly gain access to that concept
+* feather body exercise
+  * imagine every body part is a feather, is feather-light
+  * partner ("helper") put finger under a body part, lifts it
+  * dancer rises it effortlessly
+  * dancing feather body on top of helper, limbs ready to be lifted, while almost weightless
+  * resulting in:
+    * parts more autonomy, ability to listen, fluidity
+    * opening body/improvisation, exploring new pathways/dynamics
+* CI, a form based on spontaneous interaction, playing with physical forces governing movement
+  * both: slow and meditative + athletic and acrobatic
+  * physics are the same everywhere, metaphors used are different (per group/culture/country)
+* a good teachers makes students feel good about themselves
+* contact community:
+  * individuality, pleasure-seeking
+  * apolitical, apathetic; not politically aware/active
+  * at ECITE, score given "investigate national identity/culture"
+  * argentina has biggest Contact community in the world (10 jams per week in buenos aires, some 100+ people)
+* ad motivation: CI (as a life/art dance form) offers tools for releasing the grip of living in fear/tyranny
+* like dance improvisation:
+  * exercise opposites (mirror): high/low, horizontal/vertical; slow/fast
+  * build up a vocabulary for a physical dialogue
+  * do it alone, as if dialogue happen within; embodiment of contradiction, paradox, polarity
+* the 38 gifts of CI; thank you for...
+  * network of companions worldwide
+  * resisting definition, codification, doctrine
+  * not making us dress up
+  * not being trendy
+  * a strong/supple body
+  * the adrenaline
+  * challenge with people with different abilities
+  * not having to learn steps
+  * fertile ground for metaphors
+  * being incomplete form; complete it yourself
+  * intimately connect people speaking different language
+  * mirror of who i am in my relationships
+  * range of touching and being touched
+  * deepening capacity for pleasure
+  * one moment seed of the next
+  * become permeable to life
+  * absence of maps
+  * inhibit our reptilian brains
+  * reverence (ehrfurcht, verehrung) dance with men, rapture (verzueckung, schwaermerei, glueckseligkeit) dance with women
+  * not having certifications, belts, diplomas, ranks
+  * laughter
+  * awareness of physical forces
+  * when curiosity spills over into fascination
+  * for being accessible yet not simple
+  * generous (magnanimous=grossherzig) with aging bodies
+  * close to paradox and mystery
+* ad motto: "a craftsman always know sthe result of his labor, while the artist never does." -- W.H. Auden
