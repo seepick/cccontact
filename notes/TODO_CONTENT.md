@@ -276,3 +276,17 @@
   * with strong-beat music, humans have a habit to move to that beat; it becomes the primary impulse (person becomes secondary); that's why ambient music is ok-ish (it will still "color the atmosphere" with its mood; no preferred blank canvas anymore we are free to paint whatever)
   * in CI, partner remains primary partner (source of impulse); and maybe gravity, but not music
 * your attention needs to move faster than the bodies, otherwise you will miss out, it will hit you, accident and injury possible; thus, move the bodies so slowly, that your capacity for attention can keep up
+* grazing: a series of short connections; like a cow eating grass on the field, eating here and there a bit, walking somewhere else, eating...; too short to develop to something (no engagement, no commitment); feeling of "i'm on my way (somewhere else)"; tasting like at a buffet to get stimulated; 
+* definition: it's research and play; serious playfulness; playful investigation; with discipline and effort, yet effortless due to playfulness;
+  * for most people in our world it seems strange, to be physically so intimate (in a non-sensual/non-sexual way; intimacy != sexuality; we can be intimate without sex, and we can have sex without intimacy), with strangers
+    * BUT: there is this underlying assumption that strangers are bad, we shall not trust them, thus we don't "let them in"; an alienated, isolated, mistrusting way of looking at life and others.
+    * contrary to the idea of "there are only brothers and sisters in this world"; we are all one, one family, one tribe, united, together (technically speaking that might be true; homo sapiens once almost died out, just a few ten-thousands; life itself rooted back to maybe a single life cell few billion years ago)
+* "precedence of body experience first, and mindful cognition second, is an essential distinction between CI and other approaches to dance", by Danny Lepkoff
+* nancy said: "Once you get a clear feel for the basic premise, develop a few safety skills, and get your reflexes primed and ready, then you're off. You learn by doing"
+* nancy said: "Once you get a clear feel for the basic premise, develop a few safety skills, and get your reflexes primed and ready, then you're off. You learn by doing."
+* the "closer" a system gets (more well defined, confined, limited), the easier it is to freely express/move, as we know what to expect/deal with
+* to not freak out while whirling around; not losing oneself in disorientation
+* if there is no definition, no principles/rules/techniques; if it is just "go with the flow and have fun, fooling around freely"; how is it different than anarchy? how is it any different from anything, without any clearly defined essence/substance? a boundary, thus being able to say what's inside/outside?
+* CI is spherical, not 3 dimensions combined, left/right and up/down, but everything moving around you; senses experience space as a sphere, not just 3 (2D) flat planes, linear;
+* ad definition: Upon entering a Contact Improv structure, two bodies must come together to create a point of contact (i.e., back to wrist, shoulder to thigh, head to foot, back to back, the options are endless), give weight equally to each other, and then create a movement dialog that can last for an undetermined amount of time, as long as both participants are fully engaged.
+* "under-arcs", "fulcrums"

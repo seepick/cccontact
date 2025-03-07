@@ -70,6 +70,7 @@ BACKLOG
 * make a video-presentation "history of CI", just like gert did about zouk
 * send interview questions to CI teachers worldwide
 * incorporate articles from CI quarterly
+* go through links: http://www.ecite.org/index.html
 * improve wiki resources:
   * add pictures of videos/books (covers)
   * go through CQ's ones: https://contactquarterly.com/contact-editions/index.php#category=contact-improvisation

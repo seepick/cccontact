@@ -283,3 +283,57 @@ UNSORTED
   * generous (magnanimous=grossherzig) with aging bodies
   * close to paradox and mystery
 * ad motto: "a craftsman always know sthe result of his labor, while the artist never does." -- W.H. Auden
+* is it performable?
+  * it stays an unanswered question.
+  * they used to do it in the past.
+  * observing duets doing it, it seems that it indeed is.
+    * most engaging dances happen in jams, rather performances.
+    * when performing: forget RPoC, dont go off-balance
+    * stay more controlled, less venture of to discovery
+    * losing sensation, focusing on design
+  * in 80s, people were more about compositional awareness (participatory dance?), less forces guiding the improvisation; losing some of its aesthetics
+  * ballet/modern dance: go outward, penetrate/colonize space; CI is other way round: introverted, space colonizes/penetrates the dancers
+    * difficult to communicate that (internal experience; sensations, choices, discoveries) to an audience
+    * maybe by shifting perspective: putting chairs on the stage? a lecture-demonstration?
+  * like at a zoo: don't expect animals to perform for you, but you simply observe, doing their business, following their own rules
+* what excites me the most: basic skills; body's response to physical forces (gravity, inertia, centrifugal force, etc.) - the meat and potatoes of CI
+  * spices: space/time (salt), narrative (garlic), emotion (chili pepper)
+  * a bowl with mostly spices is something i can't eat; but only a pinch, makes it better
+    * spices don't work on their own: we don't just sit down, eat salt with garlic and chili peper; it's a nice add on to the body (the essence of CI)
+  * salt is most easy to overdo/overuse (awareness of space/time)
+    * Contacters lose inner body focus, lose track of their partner
+  * another spice: phrasing, contrasting stillness with motion, playing with tempo/repetition
+  * including emotional palette adds tangible dynamics to the quality of contact
+* ad LABBING/LABS: group inquires through dancing, talking, reflecting together
+  * CI is a research-based dance form (do that in classes, jams, workshops, festivals)
+  * takes only 2 people to lab
+  * an invaluable way to deepend our investigation
+  * like in science, starts with a question/hypothesis
+    * e.g. students ask questions, observe teachers investigating it ("labbing the questions")
+    * "how can i invite/encourage people to trust entering their backspace with me?"
+    * "can you fly on someone who is already off-balance and falling to the floor?"
+    * "can you survive a fall from benches/tables/stacked-tables?"
+    * "can anger be used so small people can lift bigger ones?" slap each other in the face, creating some "superpowers", and then lift them; but: this will leave you in an emotional mess for a week!
+  * permit yourself to have wild ideas
+    * physical and emotional questions... clothed and nude...
+    * proposals can be half baked; things don't need to work in the end
+  * to prevent injuires, adequately warm up: read nuance of sensation; get core muscles fired up; move at heightened heart rate (but not too high, keep adrenaline at manageable rates to not overestimate your skill/competence)
+  * work in groups of 3-4
+  * work in rounds
+    * first round given by facilitator; e.g. "find alternative pathways" (identify your patterned ones, pause, and find alternatives)
+    * next round, each person brings a question; group gives time/focus on each question
+    * next round, consent on a single question all want to tackle with
+  * lab guidance:
+    * generosity is key: listening, your knowledge, presence.
+    * equal contribution: the talkative one's need to give space to the quiet ones
+    * harvest what's yet there: some people know already something about the question; let them empty what's in their pockets
+    * notice envy: if another group has another question in the room, notice your emotions
+    * title it: rephrase your question into a title, giving it more focus
+      * e.g., "invitations that bring greater sensitivity", "the mechanics of little lifts", "allowing instability to invite the unexpected"
+    * balance: talking, movement research, and free flow ("fuck it, let's dance", hedonistic pleasure dance)
+    * inspiration whole: when need to find a question, or need more info for your lab question, just dance
+    * deepen the question: it's ok to not find "the answer", at least deepen understanding of the question
+    * courage and humility: have some humility, you are venturing into an area where you feel unfinished; acknowledge the courage of this action
+    * truth over comfort: we prefer to jump to simple answers, to release tension; welcome discomfort, stay longer in the unresolved; allowing surprising discoveries to arise
+  * about 1hr to work together; then bring findings to the entire class
+    * offer a report, give a demonstration, or both; lead group to a simple exericse to demonstrate findings
